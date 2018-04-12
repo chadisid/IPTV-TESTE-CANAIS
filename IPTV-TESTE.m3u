@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="FX" tvg-id="FX" tvg-name="FX" tvg-logo="http://img.miptv.ws/FX.png" grop-title="FILMES/SERIES",FX
+#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="http://img.miptv.ws/FX.png" grop-title="FILMES/SERIES",FX
 http://cdn.miptv.ws:25463/live/jbndx/jbnhf/833.ts
 #EXTINF:-1 tvg-id="Fox" tvg-logo="https://goo.gl/j5xbUq" group-title="Filmes e Series",FOX HD
 http://cdn.miptv.ws:25463/live/jbndx/jbnhf/832.ts
@@ -7,5 +7,6 @@ http://cdn.miptv.ws:25463/live/jbndx/jbnhf/832.ts
 http://cdn.miptv.ws:25463/live/jbndx/jbnhf/820.ts
 #EXTINF:-1 tvg-id="SONY" tvg-name="Sony HD" tvg-logo="http://img.miptv.ws/Canal_Sony.png" grop-title="FILMES/SERIES",Sony HD
 http://cdn.miptv.ws:25463/live/jbndx/jbnhf/880.ts
-#EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-name="Comedy Central" tvg-logo="http://img.miptv.ws/Comedy_Central.png" grop-title="FILMES E SERIES",Comedy Central
+#EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-name="Comedy Central" tvg-logo="http://img.miptv.ws/Comedy_Central.png" grop-title="FILMES E SERIES",COMEDY CENTRAL
 http://cdn.miptv.ws:25463/live/jbndx/jbnhf/873.ts
+#EXTINF:-1 tvg-id="SporTV 2 HD" tvg-name="SporTV 2 HD" tvg-logo="https://goo.gl/ey4qL8" grop-title="FILMES/SERIES",SPORTV 2 HD
