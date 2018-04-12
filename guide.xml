@@ -16,97 +16,194 @@
     <display-name lang="pt">Sony HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <programme start="20180411002500 -0300" stop="20180411021000 -0300" channel="FX">
-    <title lang="pt">O Sequestro do Metrô 1 2 3</title>
-    <desc lang="pt">Ryder é o líder de uma quadrilha que sequestra um trem do metrô de Nova York e ameaçam matar seus passageiros, caso não seja pago o resgate exigido. Cabe ao operador do metrô, Walter Garber, a missão de negociar com o bandido(n)</desc>
+  <channel id="COMEDY CENTRAL">
+    <display-name lang="pt">COMEDY CENTRAL</display-name>
+    <icon src="http://www.lineup.tv.br/canais/comedycentral.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="SPORTV 2 HD">
+    <display-name lang="pt">SPORTV 2 HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <programme start="20180412003000 -0300" stop="20180412021000 -0300" channel="FX">
+    <title lang="pt">O Pacto</title>
+    <desc lang="pt">Quatro jovens estudantes herdaram poderes especiais. Quando um quinto descendente se muda para a cidade, segredos que ameaçam romper o pacto de silêncio, que durante anos protegeu suas famílias, começam a ser revelados(n)</desc>
     <credits>
-      <director>Tony Scott</director>
-      <actor>Denzel Washington</actor>
-      <actor>John Travolta</actor>
-      <actor>Luis Guzmán</actor>
-      <actor>Ramon Rodriguez</actor>
-      <actor>Victor Gojcaj</actor>
-      <actor>John Turturro</actor>
-      <actor>Michael Rispoli</actor>
-      <actor>Katherine Sigismund</actor>
+      <director>Renny Harlin</director>
+      <actor>Chase Crawford</actor>
+      <actor>Toby Hemingway</actor>
+      <actor>Sebastian Stran</actor>
+      <actor>Steven Strait</actor>
+      <actor>Taylor Kitsch</actor>
+      <actor>Laura Ramsey</actor>
+      <actor>Jessica Lucas</actor>
+      <actor>Kyle Schmid</actor>
+      <actor>Stephen McHattie</actor>
+      <actor>Robert Crooks</actor>
     </credits>
-    <date>2009</date>
+    <date>2006</date>
     <rating system="BR">
       <value>11+</value>
     </rating>
   </programme>
-  <programme start="20180411021000 -0300" stop="20180411023500 -0300" channel="FX">
+  <programme start="20180412021000 -0300" stop="20180412023500 -0300" channel="FX">
     <title lang="pt">American Dad</title>
-    <desc lang="pt">Francine está ansiosa para reviver as aventuras das crianças da família Smith nos parques em uma visita familiar ao parque(n)</desc>
+    <desc lang="pt">Roger troca de lugar com Steve para ajudá-lo a conquistar uma garota bonita da escola, enquanto Stan e Francine se passam por aeromoças para impedir Mark Cuban de explodir o Sol(n)</desc>
     <credits>
-      <director>Joe Daniello</director>
+      <director>Josue Cervantes</director>
       <actor>Vozes de Seth MacFarlane</actor>
       <actor>Wendy Schaal</actor>
       <actor>Scott Grimes</actor>
       <actor>Rachael MacFarlane</actor>
       <actor>Dee Bradley Baker</actor>
     </credits>
-    <date>2013</date>
-    <episode-num system="onscreen">S10 E10</episode-num>
+    <date>2014</date>
+    <episode-num system="onscreen">S10 E12</episode-num>
     <rating system="BR">
       <value>11+</value>
     </rating>
   </programme>
-  <programme start="20180411023500 -0300" stop="20180411030500 -0300" channel="FX">
+  <programme start="20180412023500 -0300" stop="20180412030500 -0300" channel="FX">
     <title lang="pt">Uma Família da Pesada</title>
-    <desc lang="pt">Uma subversiva comédia de animação que apresenta os testes e complicações do dia-a-dia familiar, mas com um toque distintivo e irreverente(n)</desc>
+    <desc lang="pt">Peter conta para Stewie as histórias(n)</desc>
     <credits>
-      <director>Greg Colton</director>
-      <director>Dominic Bianchi</director>
+      <director>Joe Vaux</director>
       <actor>Vozes de Seth MacFarlane</actor>
       <actor>Alex Borstein</actor>
       <actor>Seth Green</actor>
-      <actor>Mila Kunis</actor>
-      <actor>Mike Henry</actor>
-      <actor>Chris Cox</actor>
     </credits>
     <date>2014</date>
-    <episode-num system="onscreen">S13 E8</episode-num>
+    <episode-num system="onscreen">S13 E10</episode-num>
     <rating system="BR">
       <value>11+</value>
     </rating>
   </programme>
-  <programme start="20180411030500 -0300" stop="20180411033000 -0300" channel="FX">
+  <programme start="20180412030500 -0300" stop="20180412033000 -0300" channel="FX">
     <title lang="pt">Bob's Burgers</title>
-    <desc lang="pt">Depois de Tina acidentalmente destruir o carro e deixar toda a família envolvida com um estranho corretor de seguros, ela fica preocupada pensando ser alguém que traz azar(n)</desc>
+    <desc lang="pt">Bob herda uma unidade de armazenamento, e toda a família imagina que ela está repleta de tesouros. Ao invés disso, eles encontram um homem chamado Chet vivendo lá dentro(n)</desc>
     <credits>
-      <director>Wesley Archer</director>
+      <director>Anthony Chun</director>
       <actor>Vozes de H. Jon Benjamin</actor>
       <actor>Dan Mintz</actor>
       <actor>Eugene Mirman</actor>
       <actor>John Roberts</actor>
       <actor>Kristen Schaal</actor>
+      <actor>Zach Galifianakis</actor>
     </credits>
     <date>2012</date>
-    <episode-num system="onscreen">S3 E7</episode-num>
+    <episode-num system="onscreen">S3 E9</episode-num>
     <rating system="BR">
       <value>9+</value>
     </rating>
   </programme>
-  <programme start="20180411033000 -0300" stop="20180411045000 -0300" channel="FX">
-    <title lang="pt">Aprisionada</title>
-    <desc lang="pt">Quando uma mulher e seu marido se mudam para o subúrbio, eles conhecem o simpático, porém misterioso, vizinho. Mas ela começa a suspeitar que por trás da faceta amigável, ele esconda um segredo perigoso(n)</desc>
+  <programme start="20180412033000 -0300" stop="20180412054000 -0300" channel="FX">
+    <title lang="pt">O Segredo dos Seus Olhos</title>
+    <desc lang="pt">Após se aposentar do cargo de oficial de justiça de um tribunal penal, Benjamin Esposito se dedica a escrever um livro(n)</desc>
     <credits>
-      <director>Michel Poulette</director>
-      <actor>Courtney Ford</actor>
-      <actor>Shaun Benson</actor>
-      <actor>Andrew Walker</actor>
-      <actor>Rachel Wilson</actor>
-      <actor>Troy Blundell</actor>
-      <actor>Jesse Camacho</actor>
-      <actor>Matt Enos</actor>
+      <director>Juan José Campanella</director>
+      <actor>Ricardo Darín</actor>
+      <actor>Soledad Villamil</actor>
+      <actor>Pablo Rago</actor>
+      <actor>Javier Godino</actor>
+      <actor>Guillermo Francella</actor>
+      <actor>Carla Quevedo</actor>
+      <actor>Bárbara Palladino</actor>
+      <actor>Rudy Romano</actor>
     </credits>
-    <date>2015</date>
+    <date>2009</date>
     <rating system="BR">
       <value>13+</value>
     </rating>
   </programme>
-  <programme start="20180411045000 -0300" stop="20180411070000 -0300" channel="FX">
+  <programme start="20180412054000 -0300" stop="20180412061000 -0300" channel="FX">
+    <title lang="pt">Uma Família da Pesada</title>
+    <desc lang="pt">Depois de seu urso Rupert, uma das coisas favoritas de Stewie é o Natal. Ao ficar sabendo que o Papai Noel estará no centro comercial, ele pede a Brian para levá-lo até lá, pois pretende fazer seu pedido pessoalmente(n)</desc>
+    <credits>
+      <director>Greg Colton</director>
+      <actor>Vozes de Seth MacFarlane</actor>
+      <actor>Seth Green</actor>
+      <actor>Mila Kunis</actor>
+      <actor>Alex Borstein</actor>
+      <actor>Drew Barrymore</actor>
+      <actor>Carrie Fisher</actor>
+      <actor>Adam West</actor>
+    </credits>
+    <episode-num system="onscreen">S10 E8</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180412061000 -0300" stop="20180412063000 -0300" channel="FX">
+    <title lang="pt">Uma Família da Pesada</title>
+    <desc lang="pt">Brian e Stewie chegam ao Polo Norte e descobrem o muito que o Natal afetou o Papai Noel, que não está nada bem. Para ajudá-lo, eles resolvem dividir entre eles mesmos todos os presentes, com resultados desastrosos(n)</desc>
+    <credits>
+      <director>Greg Colton</director>
+      <actor>Vozes de Seth MacFarlane</actor>
+      <actor>Seth Green</actor>
+      <actor>Mila Kunis</actor>
+      <actor>Alex Borstein</actor>
+      <actor>Drew Barrymore</actor>
+      <actor>Carrie Fisher</actor>
+      <actor>Adam West</actor>
+    </credits>
+    <episode-num system="onscreen">S10 E9</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180412063000 -0300" stop="20180412070000 -0300" channel="FX">
+    <title lang="pt">Uma Família da Pesada</title>
+    <desc lang="pt">Depois de anos bebendo com os amigos, o amor de Peter pela bebida tem uma triste consequência: ele precisa de um transplante renal. Brian oferece um dos seus rins. Mas será que um rim canino pode ser compatível(n)</desc>
+    <credits>
+      <director>Julius Wu</director>
+      <actor>Vozes de Seth MacFarlane</actor>
+      <actor>Seth Green</actor>
+      <actor>Mila Kunis</actor>
+      <actor>Alex Borstein</actor>
+      <actor>Carrie Fisher</actor>
+      <actor>Adam West</actor>
+    </credits>
+    <episode-num system="onscreen">S10 E10</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180412070000 -0300" stop="20180412073000 -0300" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Espaço publicitário para divulgação de produtos e serviços(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180412073000 -0300" stop="20180412080000 -0300" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Espaço publicitário para divulgação de produtos e serviços(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180412080000 -0300" stop="20180412083000 -0300" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Espaço publicitário para divulgação de produtos e serviços(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180412083000 -0300" stop="20180412090000 -0300" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Espaço publicitário para divulgação de produtos e serviços(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180412090000 -0300" stop="20180412100000 -0300" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Espaço publicitário para divulgação de produtos e serviços(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180412100000 -0300" stop="20180412115500 -0300" channel="FX">
     <title lang="pt">Karate Kid 3 - O Desafio Final</title>
     <desc lang="pt">Em Los Angeles, Daniel (Ralph Macchio) é desafiado por um lutador de karatê que quer também destruir seu mestre, Miyagi (Pat Morita). Inicialmente ele reluta em aceitar o desafio, mas termina sendo obrigado a aceitá-lo(n)</desc>
     <credits>
@@ -125,255 +222,99 @@
       <value>9+</value>
     </rating>
   </programme>
-  <programme start="20180411070000 -0300" stop="20180411073000 -0300" channel="FX">
-    <title lang="pt">Infomercial</title>
-    <desc lang="pt">Espaço publicitário para divulgação de produtos e serviços(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20180411073000 -0300" stop="20180411080000 -0300" channel="FX">
-    <title lang="pt">Infomercial</title>
-    <desc lang="pt">Espaço publicitário para divulgação de produtos e serviços(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20180411080000 -0300" stop="20180411083000 -0300" channel="FX">
-    <title lang="pt">Infomercial</title>
-    <desc lang="pt">Espaço publicitário para divulgação de produtos e serviços(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20180411083000 -0300" stop="20180411090000 -0300" channel="FX">
-    <title lang="pt">Infomercial</title>
-    <desc lang="pt">Espaço publicitário para divulgação de produtos e serviços(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20180411090000 -0300" stop="20180411100000 -0300" channel="FX">
-    <title lang="pt">Infomercial</title>
-    <desc lang="pt">Espaço publicitário para divulgação de produtos e serviços(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20180411100000 -0300" stop="20180411102000 -0300" channel="FX">
-    <title lang="pt">Uma Família da Pesada</title>
-    <desc lang="pt">Desmotivado com a falta de progresso em sua carreira literária, Brian decide se aposentar... Isto é Stewie se tornar seu empresário e um de seus livros entrar para a lista dos mais vendidos(n)</desc>
-    <credits>
-      <director>Jerry Langford</director>
-      <actor>Vozes de Seth MacFarlane</actor>
-      <actor>Seth Green</actor>
-      <actor>Mila Kunis</actor>
-      <actor>Alex Borstein</actor>
-      <actor>Adam West</actor>
-    </credits>
-    <episode-num system="onscreen">S10 E7</episode-num>
-    <rating system="BR">
-      <value>11+</value>
-    </rating>
-  </programme>
-  <programme start="20180411102000 -0300" stop="20180411120500 -0300" channel="FX">
-    <title lang="pt">A Entrega</title>
-    <desc lang="pt">Bob é atendente em um bar onde mafiosos e gângsteres se encontram regularmente. Enquanto ele tenta não se envolver com o mundo do crime, acaba se vendo em uma complicada trama que inclui um assalto mal sucedido e um assassinato(n)</desc>
-    <credits>
-      <director>Michaël R. Roskam</director>
-      <actor>James Gandolfini</actor>
-      <actor>Tom Hardy</actor>
-      <actor>Noomi Rapace</actor>
-      <actor>Matthias Schoenaerts</actor>
-      <actor>John Ortiz</actor>
-      <actor>Elizabeth Rodriguez</actor>
-      <actor>Morgan Spector</actor>
-    </credits>
-    <date>2014</date>
-    <rating system="BR">
-      <value>11+</value>
-    </rating>
-  </programme>
-  <programme start="20180411120500 -0300" stop="20180411123000 -0300" channel="FX">
+  <programme start="20180412115500 -0300" stop="20180412122000 -0300" channel="FX">
     <title lang="pt">American Dad</title>
-    <desc lang="pt">Stan erra sua rotina noturna depois de matar sua 100a pessoa, mas por engano isso libera um(n)</desc>
+    <desc lang="pt">Stan fica frustrado pois Steve e seus amigos nunca brincam fora de casa, mas Francine se recusa a deixar Stan levar as crianças para o bosque para que se divirtam na natureza(n)</desc>
     <credits>
-      <director>Shawn Murray</director>
+      <director>Chris Bennett</director>
       <actor>Vozes de Seth MacFarlane</actor>
       <actor>Wendy Schaal</actor>
       <actor>Scott Grimes</actor>
       <actor>Rachael MacFarlane</actor>
       <actor>Dee Bradley Baker</actor>
     </credits>
-    <date>2013</date>
-    <episode-num system="onscreen">S10 E11</episode-num>
+    <date>2014</date>
+    <episode-num system="onscreen">S10 E13</episode-num>
     <rating system="BR">
       <value>11+</value>
     </rating>
   </programme>
-  <programme start="20180411123000 -0300" stop="20180411130000 -0300" channel="FX">
-    <title lang="pt">Uma família da pesada</title>
-    <desc lang="pt">Ultimamente Peter não tem mostrado um bom desempenho no quarto. Então ele pede a Quagmire e Joe para intervir e ajudá-lo a obter o seu mojo de volta(n)</desc>
+  <programme start="20180412122000 -0300" stop="20180412125000 -0300" channel="FX">
+    <title lang="pt">Uma Família da Pesada</title>
+    <desc lang="pt">Brian usa seu filho para conseguir um trabalho como escritor para um programa de TV, e Quagmire deixa de ser amigo de Peter depois de Peter ter atirado nele(n)</desc>
     <credits>
-      <director>Bob Bowen</director>
+      <director>Jerry Langford</director>
       <director>Dominic Bianchi</director>
-      <actor>Vozes de Seth MacFarlane</actor>
-      <actor>Alex Borstein</actor>
+      <actor>Vozes de Alex Borstein</actor>
       <actor>Seth Green</actor>
-      <actor>Mila Kunis</actor>
-      <actor>Mike Henry</actor>
-      <actor>Alexandra Breckenridge</actor>
-      <actor>Steve Callaghan</actor>
+      <actor>Seth MacFarlane</actor>
     </credits>
     <date>2014</date>
-    <episode-num system="onscreen">S13 E9</episode-num>
+    <episode-num system="onscreen">S13 E11</episode-num>
     <rating system="BR">
       <value>11+</value>
     </rating>
   </programme>
-  <programme start="20180411130000 -0300" stop="20180411132500 -0300" channel="FX">
+  <programme start="20180412125000 -0300" stop="20180412131500 -0300" channel="FX">
     <title lang="pt">Bob's Burgers</title>
-    <desc lang="pt">Depois de Gene começar um romance com Courtney, sua primeira namorada, toda a família quer que ele termine o relacionamento quando eles decidem que ela é completamente irritante(n)</desc>
+    <desc lang="pt">Linda teme que Louise não goste dela e, para o desgosto de Louise, a obriga a comparecer a um seminário para Mães e Filhas para fortalecer seu relacionamento(n)</desc>
     <credits>
-      <director>Don MacKinnon</director>
+      <director>Jennifer Coyle</director>
       <actor>Vozes de H. Jon Benjamin</actor>
       <actor>Dan Mintz</actor>
       <actor>Eugene Mirman</actor>
       <actor>John Roberts</actor>
       <actor>Kristen Schaal</actor>
-      <actor>David Wain</actor>
+      <actor>Kurt Braunohler</actor>
     </credits>
     <date>2012</date>
-    <episode-num system="onscreen">S3 E8</episode-num>
+    <episode-num system="onscreen">S3 E10</episode-num>
     <rating system="BR">
       <value>9+</value>
     </rating>
   </programme>
-  <programme start="20180411132500 -0300" stop="20180411150500 -0300" channel="FX">
-    <title lang="pt">Atrás das Linhas Inimigas 4: Missão África</title>
-    <desc lang="pt">Uma equipe da Marinha americana tem a missão de desativar uma mina de urânio clandestina na África e impedir que a substância caia em mãos erradas(n)</desc>
+  <programme start="20180412131500 -0300" stop="20180412150500 -0300" channel="FX">
+    <title lang="pt">Kill Bill: Vol. 1</title>
+    <desc lang="pt">Durante uma cerimônia de casamento, assassinos chegam atirando para todos os lados. O alvo: a noiva, ex-membro do grupo comandado por seu antigo chefe e amante, Bill(n)</desc>
     <credits>
-      <director>Roel Reiné</director>
-      <actor>Tom Sizemore</actor>
-      <actor>Aurélie Meriel</actor>
-      <actor>Anthony Oseyemi</actor>
-      <actor>Lex Shrapnel</actor>
-      <actor>Michael Everson</actor>
-      <actor>Darron Meyer</actor>
-      <actor>Aurélie Meriel</actor>
-    </credits>
-    <date>2014</date>
-    <rating system="BR">
-      <value>13+</value>
-    </rating>
-  </programme>
-  <programme start="20180411150500 -0300" stop="20180411170500 -0300" channel="FX">
-    <title lang="pt">Stealth - Ameaça Invisível</title>
-    <desc lang="pt">Um raio faz com que um novo jato secreto dotado de inteligência artificial passe a descumprir ordens e realizar missões por conta própria, podendo gerar acontecimentos desastrosos(n)</desc>
-    <credits>
-      <director>Rob Cohen</director>
-      <actor>Josh Lucas</actor>
-      <actor>Jessica Biel</actor>
-      <actor>Jamie Foxx</actor>
-      <actor>Sam Shepard</actor>
-      <actor>Richard Roxburgh</actor>
-      <actor>Joe Morton</actor>
-      <actor>Ian Bliss</actor>
-      <actor>Ebon Moss-Bachrach</actor>
-      <actor>Michael Denkha</actor>
-      <actor>Rocky Helton</actor>
-      <actor>Christopher Naismith</actor>
-    </credits>
-    <date>2005</date>
-    <rating system="BR">
-      <value>9+</value>
-    </rating>
-  </programme>
-  <programme start="20180411170500 -0300" stop="20180411183500 -0300" channel="FX">
-    <title lang="pt">Missão Babilônia</title>
-    <desc lang="pt">Um veterano de guerra tem a missão de escoltar uma mulher da Rússia até a China. O pouco que ele sabe dela, já o coloca em grande perigo: ela faz parte de uma seita que pretende produzir um novo Messias, geneticamente modificado(n)</desc>
-    <credits>
-      <director>Mathieu Kassovitz</director>
-      <actor>Vin Diesel</actor>
-      <actor>Michelle Yeoh</actor>
-      <actor>Mélanie Thierry</actor>
-      <actor>Gérard Depardieu</actor>
-      <actor>Charlotte Rampling</actor>
-      <actor>Mark Strong</actor>
-      <actor>Lambert Wilson</actor>
-      <actor>Jérôme Le Banner</actor>
-      <actor>Joel Kirby</actor>
-    </credits>
-    <date>2008</date>
-    <rating system="BR">
-      <value>11+</value>
-    </rating>
-  </programme>
-  <programme start="20180411183500 -0300" stop="20180411204000 -0300" channel="FX">
-    <title lang="pt">O Justiceiro</title>
-    <desc lang="pt">A família do agente especial do FBI, Frank Castle, é assassinada pelos capangas do corrupto Howard Saint e sua esposa. Castle vai se dedicar a eliminar os crimes da cidade em que vive(n)</desc>
-    <credits>
-      <director>Jonathan Hensleigh</director>
-      <actor>Thomas Jane</actor>
-      <actor>John Travolta</actor>
-      <actor>Will Patton</actor>
-      <actor>Roy Scheider</actor>
-      <actor>Laura Harring</actor>
-      <actor>Ben Foster</actor>
-      <actor>Eddie Jemison</actor>
-      <actor>Rebecca Romijn</actor>
-      <actor>Samantha Mathis</actor>
-      <actor>Bonnie Johnson</actor>
-    </credits>
-    <date>2004</date>
-    <rating system="BR">
-      <value>13+</value>
-    </rating>
-  </programme>
-  <programme start="20180411204000 -0300" stop="20180411223000 -0300" channel="FX">
-    <title lang="pt">O Profissional</title>
-    <desc lang="pt">Um traficante de drogas e sua família são assassinados por Gary Stansfield, um corrupto policial da divisão de narcóticos(n)</desc>
-    <credits>
-      <director>Luc Besson</director>
-      <actor>Gary Oldman</actor>
-      <actor>Natalie Portman</actor>
-      <actor>Jean Reno</actor>
-      <actor>Danny Aiello</actor>
-      <actor>Peter Appel</actor>
-      <actor>Willi One Blood</actor>
-      <actor>Don Creech</actor>
-      <actor>Keith A. Glascoe</actor>
-      <actor>Randolph Scott</actor>
-      <actor>Michael Badalucco</actor>
-      <actor>Elizabeth Regen</actor>
-    </credits>
-    <date>1994</date>
-    <rating system="BR">
-      <value>13+</value>
-    </rating>
-  </programme>
-  <programme start="20180411223000 -0300" stop="20180412002500 -0300" channel="FX">
-    <title lang="pt">Lágrimas do Sol</title>
-    <desc lang="pt">O tenente A.K.Waters é enviado à Nigéria para resgatar a dra. Lena Hendricks, mas ela se nega a partir. Ele terá de decidir entre o dever e a consciência(n)</desc>
-    <credits>
-      <director>Antoine Fuqua</director>
-      <actor>Bruce Willis</actor>
-      <actor>Monica Bellucci</actor>
-      <actor>Cole Hauser</actor>
-      <actor>Eamonn Walker</actor>
-      <actor>Tom Skerritt</actor>
-      <actor>Nick Chinlund</actor>
-      <actor>Charles Ingram</actor>
-      <actor>Paul Francis</actor>
-      <actor>Malick Bowens</actor>
-      <actor>Ida Onyango</actor>
+      <director>Quentin Tarantino</director>
+      <actor>Uma Thurman</actor>
+      <actor>Lucy Liu</actor>
+      <actor>Vivica A. Fox</actor>
+      <actor>Daryl Hannah</actor>
+      <actor>David Carradine</actor>
+      <actor>Michael Madsen</actor>
+      <actor>Julie Dreyfus</actor>
+      <actor>Sony Chiba</actor>
+      <actor>Michael Bowen</actor>
+      <actor>Jun Kunimura</actor>
     </credits>
     <date>2003</date>
     <rating system="BR">
+      <value>15+</value>
+    </rating>
+  </programme>
+  <programme start="20180412150500 -0300" stop="20180412164500 -0300" channel="FX">
+    <title lang="pt">O Detonador</title>
+    <desc lang="pt">Sonni Griffith (Wesley Snipes) é um agente secreto da CIA que vai à Polônia para impedir que traficantes de armas fechem um grande negócio: a venda de uma arma nuclear(n)</desc>
+    <credits>
+      <director>Po-chih Leong</director>
+      <actor>Wesley Snipes</actor>
+      <actor>Silvia Colloca</actor>
+      <actor>Matthew Leitch</actor>
+      <actor>Tim Dutton</actor>
+      <actor>William Hope</actor>
+      <actor>Bogdan Uritescu</actor>
+      <actor>Warren Derosa</actor>
+      <actor>Vincenzo Nicoli</actor>
+      <actor>Tania Popa</actor>
+    </credits>
+    <date>2006</date>
+    <rating system="BR">
       <value>13+</value>
     </rating>
   </programme>
-  <programme start="20180411002400 -0300" stop="20180411020700 -0300" channel="FX HD">
+  <programme start="20180412164500 -0300" stop="20180412183500 -0300" channel="FX">
     <title lang="pt">O Sequestro do Metrô 1 2 3</title>
     <desc lang="pt">Ryder é o líder de uma quadrilha que sequestra um trem do metrô de Nova York e ameaçam matar seus passageiros, caso não seja pago o resgate exigido. Cabe ao operador do metrô, Walter Garber, a missão de negociar com o bandido(n)</desc>
     <credits>
@@ -387,19 +328,128 @@
       <actor>Michael Rispoli</actor>
       <actor>Katherine Sigismund</actor>
     </credits>
+    <date>2009</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180412183500 -0300" stop="20180412185000 -0300" channel="FX">
+    <title lang="pt">O Último Programa do Mundo</title>
+    <desc lang="pt">O Último Programa do Mundo é um programa de TV semanal que ocorre em um cenário pós apocalíptico, onde não haverá outro programa de TV(n)</desc>
+    <credits>
+      <director>Juliano Enrico</director>
+      <director>Raul Chequer</director>
+      <actor>Caito Mainer</actor>
+      <actor>Daniel Furlan</actor>
+      <actor>David Benincá</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S1 E12</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180412185000 -0300" stop="20180412190500 -0300" channel="FX">
+    <title lang="pt">O Último Programa do Mundo</title>
+    <desc lang="pt">O Último Programa do Mundo é um programa de TV semanal que ocorre em um cenário pós apocalíptico, onde não haverá outro programa de TV(n)</desc>
+    <credits>
+      <director>Juliano Enrico</director>
+      <director>Raul Chequer</director>
+      <actor>Caito Mainer</actor>
+      <actor>Daniel Furlan</actor>
+      <actor>David Benincá</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180412190500 -0300" stop="20180412203500 -0300" channel="FX">
+    <title lang="pt">O Concurso</title>
+    <desc lang="pt">Rogério Carlos, Bernardinho e Freitas vieram de diferentes partes do país para o Rio a fim participar de um concurso para se tornar juiz. Eles conhecem outro candidato, Caio, que coloca todos em uma enrascada(n)</desc>
+    <credits>
+      <director>Pedro Vasconcelos</director>
+      <actor>Danton Mello</actor>
+      <actor>Fábio Porchat</actor>
+      <actor>Sabrina Sato</actor>
+      <actor>Rodrigo Pandolfo</actor>
+      <actor>Anderson Di Rizzi</actor>
+      <actor>Carol Castro</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180412203500 -0300" stop="20180412223000 -0300" channel="FX">
+    <title lang="pt">6 Balas</title>
+    <desc lang="pt">Quando o tráfico humano é um inimigo, chamam Jean-Claude Van Damme. Após uma missão de resgate mal sucedida, o mercenário Samson Gália vai sair do negócio, mas logo se sente tentado a tomar uma última missão(n)</desc>
+    <credits>
+      <director>Ernie Barbarash</director>
+      <actor>Jean Claude Van Damme</actor>
+      <actor>Joe Flanigan</actor>
+      <actor>Anna-louise Plowman</actor>
+      <actor>Charlotte Beaumont</actor>
+      <actor>Steve Nicolson</actor>
+      <actor>Uriel Emil Pollack</actor>
+      <actor>Louis Dempsey</actor>
+      <actor>Mark A. Lewis</actor>
+    </credits>
+    <date>2012</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180412223000 -0300" stop="20180413003000 -0300" channel="FX">
+    <title lang="pt">O Exterminador do Futuro: Gênesis</title>
+    <desc lang="pt">Em 2029, a resistência humana contra as máquinas é comandada por John Connor. Ao saber que a Skynet enviou um exterminador ao passado com o objetivo de matar sua mãe, Sarah Connor, antes de seu nascimento(n)</desc>
+    <credits>
+      <director>Alan Taylor</director>
+      <actor>Arnold Schwarzenegger</actor>
+      <actor>Jason Clarke</actor>
+      <actor>Emilia Clarke</actor>
+      <actor>Jai Courtney</actor>
+      <actor>J.K. Simmons</actor>
+      <actor>Dayo Okeniyi</actor>
+      <actor>Matt Smith</actor>
+      <actor>Courtney B. Vance</actor>
+      <actor>Byung-hun Lee</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180412002800 -0300" stop="20180412020600 -0300" channel="FX HD">
+    <title lang="pt">O Pacto</title>
+    <desc lang="pt">Quatro jovens estudantes herdaram poderes especiais. Quando um quinto descendente se muda para a cidade, segredos que ameaçam romper o pacto de silêncio, que durante anos protegeu suas famílias, começam a ser revelados(n)</desc>
+    <credits>
+      <director>Renny Harlin</director>
+      <actor>Chase Crawford</actor>
+      <actor>Toby Hemingway</actor>
+      <actor>Sebastian Stran</actor>
+      <actor>Steven Strait</actor>
+      <actor>Taylor Kitsch</actor>
+      <actor>Laura Ramsey</actor>
+      <actor>Jessica Lucas</actor>
+      <actor>Kyle Schmid</actor>
+      <actor>Stephen McHattie</actor>
+      <actor>Robert Crooks</actor>
+    </credits>
     <category lang="pt">Filme</category>
     <rating system="BR">
       <value>14</value>
     </rating>
     <star-rating>
-      <value>4.0</value>
+      <value>3.0</value>
     </star-rating>
   </programme>
-  <programme start="20180411020700 -0300" stop="20180411022900 -0300" channel="FX HD">
+  <programme start="20180412020600 -0300" stop="20180412022900 -0300" channel="FX HD">
     <title lang="pt">American Dad</title>
-    <desc lang="pt">Francine está ansiosa para reviver as aventuras das crianças da família Smith nos parques em uma visita familiar ao parque “Familyland”(n)</desc>
+    <desc lang="pt">Roger troca de lugar com Steve para ajudá-lo a conquistar uma garota bonita da escola, enquanto Stan e Francine se passam por aeromoças para impedir Mark Cuban de explodir o Sol(n)</desc>
     <credits>
-      <director>Joe Daniello</director>
+      <director>Josue Cervantes</director>
       <actor>Vozes de Seth MacFarlane</actor>
       <actor>Wendy Schaal</actor>
       <actor>Scott Grimes</actor>
@@ -414,18 +464,14 @@
       <value>5.0</value>
     </star-rating>
   </programme>
-  <programme start="20180411022900 -0300" stop="20180411025100 -0300" channel="FX HD">
+  <programme start="20180412022900 -0300" stop="20180412025200 -0300" channel="FX HD">
     <title lang="pt">Uma Família da Pesada</title>
-    <desc lang="pt">Uma subversiva comédia de animação que apresenta os testes e complicações do dia-a-dia familiar, mas com um toque distintivo e irreverente(n)</desc>
+    <desc lang="pt">Peter conta para Stewie as histórias "João e o Pé de Feijão", "Chapeuzinho Vermelho" e "Cinderela"(n)</desc>
     <credits>
-      <director>Greg Colton</director>
-      <director>Dominic Bianchi</director>
+      <director>Joe Vaux</director>
       <actor>Vozes de Seth MacFarlane</actor>
       <actor>Alex Borstein</actor>
       <actor>Seth Green</actor>
-      <actor>Mila Kunis</actor>
-      <actor>Mike Henry</actor>
-      <actor>Chris Cox</actor>
     </credits>
     <category lang="pt">Séries</category>
     <rating system="BR">
@@ -435,16 +481,17 @@
       <value>5.0</value>
     </star-rating>
   </programme>
-  <programme start="20180411025100 -0300" stop="20180411031300 -0300" channel="FX HD">
+  <programme start="20180412025200 -0300" stop="20180412031500 -0300" channel="FX HD">
     <title lang="pt">Bob's Burgers</title>
-    <desc lang="pt">Depois de Tina acidentalmente destruir o carro e deixar toda a família envolvida com um estranho corretor de seguros, ela fica preocupada pensando ser alguém que traz azar(n)</desc>
+    <desc lang="pt">Bob herda uma unidade de armazenamento, e toda a família imagina que ela está repleta de tesouros. Ao invés disso, eles encontram um homem chamado Chet vivendo lá dentro(n)</desc>
     <credits>
-      <director>Wesley Archer</director>
+      <director>Anthony Chun</director>
       <actor>Vozes de H. Jon Benjamin</actor>
       <actor>Dan Mintz</actor>
       <actor>Eugene Mirman</actor>
       <actor>John Roberts</actor>
       <actor>Kristen Schaal</actor>
+      <actor>Zach Galifianakis</actor>
     </credits>
     <category lang="pt">Séries</category>
     <rating system="BR">
@@ -454,28 +501,164 @@
       <value>5.0</value>
     </star-rating>
   </programme>
-  <programme start="20180411031300 -0300" stop="20180411044400 -0300" channel="FX HD">
-    <title lang="pt">Aprisionada</title>
-    <desc lang="pt">Quando uma mulher e seu marido se mudam para o subúrbio, eles conhecem o simpático, porém misterioso, vizinho. Mas ela começa a suspeitar que por trás da faceta amigável, ele esconda um segredo perigoso(n)</desc>
+  <programme start="20180412031500 -0300" stop="20180412052300 -0300" channel="FX HD">
+    <title lang="pt">O Segredo dos Seus Olhos</title>
+    <desc lang="pt">Após se aposentar do cargo de oficial de justiça de um tribunal penal, Benjamin Esposito se dedica a escrever um livro(n)</desc>
     <credits>
-      <director>Michel Poulette</director>
-      <actor>Courtney Ford</actor>
-      <actor>Shaun Benson</actor>
-      <actor>Andrew Walker</actor>
-      <actor>Rachel Wilson</actor>
-      <actor>Troy Blundell</actor>
-      <actor>Jesse Camacho</actor>
-      <actor>Matt Enos</actor>
+      <director>Juan José Campanella</director>
+      <actor>Ricardo Darín</actor>
+      <actor>Soledad Villamil</actor>
+      <actor>Pablo Rago</actor>
+      <actor>Javier Godino</actor>
+      <actor>Guillermo Francella</actor>
+      <actor>Carla Quevedo</actor>
+      <actor>Bárbara Palladino</actor>
+      <actor>Rudy Romano</actor>
     </credits>
     <category lang="pt">Filme</category>
     <rating system="BR">
       <value>16</value>
     </rating>
     <star-rating>
-      <value>4.0</value>
+      <value>5.0</value>
     </star-rating>
   </programme>
-  <programme start="20180411044400 -0300" stop="20180411063700 -0300" channel="FX HD">
+  <programme start="20180412052300 -0300" stop="20180412055000 -0300" channel="FX HD">
+    <title lang="pt">Uma Família da Pesada</title>
+    <desc lang="pt">Depois de seu urso Rupert, uma das coisas favoritas de Stewie é o Natal. Ao ficar sabendo que o Papai Noel estará no centro comercial, ele pede a Brian para levá-lo até lá, pois pretende fazer seu pedido pessoalmente(n)</desc>
+    <credits>
+      <director>Greg Colton</director>
+      <actor>Vozes de Seth MacFarlane</actor>
+      <actor>Seth Green</actor>
+      <actor>Mila Kunis</actor>
+      <actor>Alex Borstein</actor>
+      <actor>Drew Barrymore</actor>
+      <actor>Carrie Fisher</actor>
+      <actor>Adam West</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180412055000 -0300" stop="20180412061400 -0300" channel="FX HD">
+    <title lang="pt">Uma Família da Pesada</title>
+    <desc lang="pt">Brian e Stewie chegam ao Polo Norte e descobrem o muito que o Natal afetou o Papai Noel, que não está nada bem. Para ajudá-lo, eles resolvem dividir entre eles mesmos todos os presentes, com resultados desastrosos(n)</desc>
+    <credits>
+      <director>Greg Colton</director>
+      <actor>Vozes de Seth MacFarlane</actor>
+      <actor>Seth Green</actor>
+      <actor>Mila Kunis</actor>
+      <actor>Alex Borstein</actor>
+      <actor>Drew Barrymore</actor>
+      <actor>Carrie Fisher</actor>
+      <actor>Adam West</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180412061400 -0300" stop="20180412063700 -0300" channel="FX HD">
+    <title lang="pt">Uma Família da Pesada</title>
+    <desc lang="pt">Depois de anos bebendo com os amigos, o amor de Peter pela bebida tem uma triste consequência: ele precisa de um transplante renal. Brian oferece um dos seus rins. Mas será que um rim canino pode ser compatível?(n)</desc>
+    <credits>
+      <director>Julius Wu</director>
+      <actor>Vozes de Seth MacFarlane</actor>
+      <actor>Seth Green</actor>
+      <actor>Mila Kunis</actor>
+      <actor>Alex Borstein</actor>
+      <actor>Carrie Fisher</actor>
+      <actor>Adam West</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180412063700 -0300" stop="20180412070000 -0300" channel="FX HD">
+    <title lang="pt">Uma Família da Pesada</title>
+    <desc lang="pt">Chris e Meg pensam que seus pais têm uma vida muito simples, Peter e Louis não estão de acordo e começam a dar aos filhos uma lição trocando os papéis(n)</desc>
+    <credits>
+      <director>null</director>
+      <actor>Vozes de Seth MacFarlane</actor>
+      <actor>Seth Green</actor>
+      <actor>Mila Kunis</actor>
+      <actor>Alex Borstein</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180412070000 -0300" stop="20180412073000 -0300" channel="FX HD">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Espaço publicitário para divulgação de produtos e serviços(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180412073000 -0300" stop="20180412080000 -0300" channel="FX HD">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Espaço publicitário para divulgação de produtos e serviços(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180412080000 -0300" stop="20180412083000 -0300" channel="FX HD">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Espaço publicitário para divulgação de produtos e serviços(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180412083000 -0300" stop="20180412090000 -0300" channel="FX HD">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Espaço publicitário para divulgação de produtos e serviços(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180412090000 -0300" stop="20180412100000 -0300" channel="FX HD">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Espaço publicitário para divulgação de produtos e serviços(n)</desc>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180412100000 -0300" stop="20180412120000 -0300" channel="FX HD">
     <title lang="pt">Karate Kid 3</title>
     <sub-title lang="pt">O Desafio Final</sub-title>
     <desc lang="pt">Em Los Angeles, Daniel (Ralph Macchio) é desafiado por um lutador de karatê que quer também destruir seu mestre, Miyagi (Pat Morita). Inicialmente ele reluta em aceitar o desafio, mas termina sendo obrigado a aceitá-lo(n)</desc>
@@ -498,106 +681,11 @@
       <value>3.0</value>
     </star-rating>
   </programme>
-  <programme start="20180411063700 -0300" stop="20180411070000 -0300" channel="FX HD">
-    <title lang="pt">Uma Família da Pesada</title>
-    <desc lang="pt">Ao saber que Rush Limbaugh (convidado para interpretar ele mesmo) estará no shopping center de Quahog para uma sessão de autógrafos de seu livro, ele resolve ir até lá para mostrar um pouco de sua mentalidade esquerdista(n)</desc>
-    <credits>
-      <director>John Holmquist</director>
-      <actor>Vozes de Seth MacFarlane</actor>
-      <actor>Seth Green</actor>
-      <actor>Mila Kunis</actor>
-      <actor>Alex Borstein</actor>
-      <actor>Rainn Wilson</actor>
-    </credits>
-    <category lang="pt">Séries</category>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-    <star-rating>
-      <value>5.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180411070000 -0300" stop="20180411073000 -0300" channel="FX HD">
-    <title lang="pt">Infomercial</title>
-    <desc lang="pt">Espaço publicitário para divulgação de produtos e serviços(n)</desc>
-    <category lang="pt">Variedades</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180411073000 -0300" stop="20180411080000 -0300" channel="FX HD">
-    <title lang="pt">Infomercial</title>
-    <desc lang="pt">Espaço publicitário para divulgação de produtos e serviços(n)</desc>
-    <category lang="pt">Variedades</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180411080000 -0300" stop="20180411083000 -0300" channel="FX HD">
-    <title lang="pt">Infomercial</title>
-    <desc lang="pt">Espaço publicitário para divulgação de produtos e serviços(n)</desc>
-    <category lang="pt">Variedades</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180411083000 -0300" stop="20180411090000 -0300" channel="FX HD">
-    <title lang="pt">Infomercial</title>
-    <desc lang="pt">Espaço publicitário para divulgação de produtos e serviços(n)</desc>
-    <category lang="pt">Variedades</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180411090000 -0300" stop="20180411100000 -0300" channel="FX HD">
-    <title lang="pt">Infomercial</title>
-    <desc lang="pt">Espaço publicitário para divulgação de produtos e serviços(n)</desc>
-    <category lang="pt">Variedades</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180411100000 -0300" stop="20180411115300 -0300" channel="FX HD">
-    <title lang="pt">A Entrega</title>
-    <desc lang="pt">Bob é atendente em um bar onde mafiosos e gângsteres se encontram regularmente. Enquanto ele tenta não se envolver com o mundo do crime, acaba se vendo em uma complicada trama que inclui um assalto mal sucedido e um assassinato(n)</desc>
-    <credits>
-      <director>Michaël R. Roskam</director>
-      <actor>James Gandolfini</actor>
-      <actor>Tom Hardy</actor>
-      <actor>Noomi Rapace</actor>
-      <actor>Matthias Schoenaerts</actor>
-      <actor>John Ortiz</actor>
-      <actor>Elizabeth Rodriguez</actor>
-      <actor>Morgan Spector</actor>
-    </credits>
-    <category lang="pt">Filme</category>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-    <star-rating>
-      <value>4.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180411115300 -0300" stop="20180411121700 -0300" channel="FX HD">
+  <programme start="20180412120000 -0300" stop="20180412122700 -0300" channel="FX HD">
     <title lang="pt">American Dad</title>
-    <desc lang="pt">Stan erra sua rotina noturna depois de matar sua 100a pessoa, mas por engano isso libera um “bom” Stan durante seu sono.(n)</desc>
+    <desc lang="pt">Stan fica frustrado pois Steve e seus amigos nunca brincam fora de casa, mas Francine se recusa a deixar Stan levar as crianças para o bosque para que se divirtam na natureza(n)</desc>
     <credits>
-      <director>Shawn Murray</director>
+      <director>Chris Bennett</director>
       <actor>Vozes de Seth MacFarlane</actor>
       <actor>Wendy Schaal</actor>
       <actor>Scott Grimes</actor>
@@ -609,22 +697,18 @@
       <value>14</value>
     </rating>
     <star-rating>
-      <value>5.0</value>
+      <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20180411121700 -0300" stop="20180411124200 -0300" channel="FX HD">
-    <title lang="pt">uma família da pesada</title>
-    <desc lang="pt">Ultimamente Peter não tem mostrado um bom desempenho no quarto. Então ele pede a Quagmire e Joe para intervir e ajudá-lo a obter o seu mojo de volta(n)</desc>
+  <programme start="20180412122700 -0300" stop="20180412125200 -0300" channel="FX HD">
+    <title lang="pt">Uma Família da Pesada</title>
+    <desc lang="pt">Brian usa seu filho para conseguir um trabalho como escritor para um programa de TV, e Quagmire deixa de ser amigo de Peter depois de Peter ter atirado nele(n)</desc>
     <credits>
-      <director>Bob Bowen</director>
+      <director>Jerry Langford</director>
       <director>Dominic Bianchi</director>
-      <actor>Vozes de Seth MacFarlane</actor>
-      <actor>Alex Borstein</actor>
+      <actor>Vozes de Alex Borstein</actor>
       <actor>Seth Green</actor>
-      <actor>Mila Kunis</actor>
-      <actor>Mike Henry</actor>
-      <actor>Alexandra Breckenridge</actor>
-      <actor>Steve Callaghan</actor>
+      <actor>Seth MacFarlane</actor>
     </credits>
     <category lang="pt">Séries</category>
     <rating system="BR">
@@ -634,38 +718,44 @@
       <value>4.0</value>
     </star-rating>
   </programme>
-  <programme start="20180411124200 -0300" stop="20180411130700 -0300" channel="FX HD">
-    <title lang="pt">Bob's Burgers</title>
-    <desc lang="pt">Depois de Gene começar um romance com Courtney, sua primeira namorada, toda a família quer que ele termine o relacionamento quando eles decidem que ela é completamente irritante(n)</desc>
+  <programme start="20180412125200 -0300" stop="20180412145400 -0300" channel="FX HD">
+    <title lang="pt">Kill Bill: Vol. 1</title>
+    <desc lang="pt">Durante uma cerimônia de casamento, assassinos chegam atirando para todos os lados. O alvo: a noiva, ex-membro do grupo comandado por seu antigo chefe e amante, Bill(n)</desc>
     <credits>
-      <director>Don MacKinnon</director>
-      <actor>Vozes de H. Jon Benjamin</actor>
-      <actor>Dan Mintz</actor>
-      <actor>Eugene Mirman</actor>
-      <actor>John Roberts</actor>
-      <actor>Kristen Schaal</actor>
-      <actor>David Wain</actor>
+      <director>Quentin Tarantino</director>
+      <actor>Uma Thurman</actor>
+      <actor>Lucy Liu</actor>
+      <actor>Vivica A. Fox</actor>
+      <actor>Daryl Hannah</actor>
+      <actor>David Carradine</actor>
+      <actor>Michael Madsen</actor>
+      <actor>Julie Dreyfus</actor>
+      <actor>Sony Chiba</actor>
+      <actor>Michael Bowen</actor>
+      <actor>Jun Kunimura</actor>
     </credits>
-    <category lang="pt">Séries</category>
+    <category lang="pt">Filme</category>
     <rating system="BR">
-      <value>12</value>
+      <value>18</value>
     </rating>
     <star-rating>
       <value>5.0</value>
     </star-rating>
   </programme>
-  <programme start="20180411130700 -0300" stop="20180411145100 -0300" channel="FX HD">
-    <title lang="pt">Atrás das Linhas Inimigas 4: Missão África</title>
-    <desc lang="pt">Uma equipe da Marinha americana tem a missão de desativar uma mina de urânio clandestina na África e impedir que a substância caia em mãos erradas(n)</desc>
+  <programme start="20180412145400 -0300" stop="20180412164700 -0300" channel="FX HD">
+    <title lang="pt">O Detonador</title>
+    <desc lang="pt">Sonni Griffith (Wesley Snipes) é um agente secreto da CIA que vai à Polônia para impedir que traficantes de armas fechem um grande negócio: a venda de uma arma nuclear(n)</desc>
     <credits>
-      <director>Roel Reiné</director>
-      <actor>Tom Sizemore</actor>
-      <actor>Aurélie Meriel</actor>
-      <actor>Anthony Oseyemi</actor>
-      <actor>Lex Shrapnel</actor>
-      <actor>Michael Everson</actor>
-      <actor>Darron Meyer</actor>
-      <actor>Aurélie Meriel</actor>
+      <director>Po-chih Leong</director>
+      <actor>Wesley Snipes</actor>
+      <actor>Silvia Colloca</actor>
+      <actor>Matthew Leitch</actor>
+      <actor>Tim Dutton</actor>
+      <actor>William Hope</actor>
+      <actor>Bogdan Uritescu</actor>
+      <actor>Warren Derosa</actor>
+      <actor>Vincenzo Nicoli</actor>
+      <actor>Tania Popa</actor>
     </credits>
     <category lang="pt">Filme</category>
     <rating system="BR">
@@ -675,141 +765,39 @@
       <value>3.0</value>
     </star-rating>
   </programme>
-  <programme start="20180411145100 -0300" stop="20180411170600 -0300" channel="FX HD">
-    <title lang="pt">Stealth</title>
-    <sub-title lang="pt">Ameaça Invisível</sub-title>
-    <desc lang="pt">Um raio faz com que um novo jato secreto dotado de inteligência artificial passe a descumprir ordens e realizar missões por conta própria, podendo gerar acontecimentos desastrosos(n)</desc>
+  <programme start="20180412164700 -0300" stop="20180412183900 -0300" channel="FX HD">
+    <title lang="pt">O Sequestro do Metrô 1 2 3</title>
+    <desc lang="pt">Ryder é o líder de uma quadrilha que sequestra um trem do metrô de Nova York e ameaçam matar seus passageiros, caso não seja pago o resgate exigido. Cabe ao operador do metrô, Walter Garber, a missão de negociar com o bandido(n)</desc>
     <credits>
-      <director>Rob Cohen</director>
-      <actor>Josh Lucas</actor>
-      <actor>Jessica Biel</actor>
-      <actor>Jamie Foxx</actor>
-      <actor>Sam Shepard</actor>
-      <actor>Richard Roxburgh</actor>
-      <actor>Joe Morton</actor>
-      <actor>Ian Bliss</actor>
-      <actor>Ebon Moss-Bachrach</actor>
-      <actor>Michael Denkha</actor>
-      <actor>Rocky Helton</actor>
-      <actor>Christopher Naismith</actor>
-    </credits>
-    <category lang="pt">Filme</category>
-    <rating system="BR">
-      <value>12</value>
-    </rating>
-    <star-rating>
-      <value>3.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180411170600 -0300" stop="20180411183800 -0300" channel="FX HD">
-    <title lang="pt">Missão Babilônia</title>
-    <desc lang="pt">Um veterano de guerra tem a missão de escoltar uma mulher da Rússia até a China. O pouco que ele sabe dela, já o coloca em grande perigo: ela faz parte de uma seita que pretende produzir um novo Messias, geneticamente modificado(n)</desc>
-    <credits>
-      <director>Mathieu Kassovitz</director>
-      <actor>Vin Diesel</actor>
-      <actor>Michelle Yeoh</actor>
-      <actor>Mélanie Thierry</actor>
-      <actor>Gérard Depardieu</actor>
-      <actor>Charlotte Rampling</actor>
-      <actor>Mark Strong</actor>
-      <actor>Lambert Wilson</actor>
-      <actor>Jérôme Le Banner</actor>
-      <actor>Joel Kirby</actor>
-    </credits>
-    <category lang="pt">Filme</category>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-    <star-rating>
-      <value>4.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180411183800 -0300" stop="20180411203800 -0300" channel="FX HD">
-    <title lang="pt">O Justiceiro</title>
-    <desc lang="pt">A família do agente especial do FBI, Frank Castle, é assassinada pelos capangas do corrupto Howard Saint e sua esposa. Castle vai se dedicar a eliminar os crimes da cidade em que vive(n)</desc>
-    <credits>
-      <director>Jonathan Hensleigh</director>
-      <actor>Thomas Jane</actor>
+      <director>Tony Scott</director>
+      <actor>Denzel Washington</actor>
       <actor>John Travolta</actor>
-      <actor>Will Patton</actor>
-      <actor>Roy Scheider</actor>
-      <actor>Laura Harring</actor>
-      <actor>Ben Foster</actor>
-      <actor>Eddie Jemison</actor>
-      <actor>Rebecca Romijn</actor>
-      <actor>Samantha Mathis</actor>
-      <actor>Bonnie Johnson</actor>
+      <actor>Luis Guzmán</actor>
+      <actor>Ramon Rodriguez</actor>
+      <actor>Victor Gojcaj</actor>
+      <actor>John Turturro</actor>
+      <actor>Michael Rispoli</actor>
+      <actor>Katherine Sigismund</actor>
     </credits>
     <category lang="pt">Filme</category>
     <rating system="BR">
-      <value>16</value>
+      <value>14</value>
     </rating>
     <star-rating>
       <value>4.0</value>
     </star-rating>
   </programme>
-  <programme start="20180411203800 -0300" stop="20180411223000 -0300" channel="FX HD">
-    <title lang="pt">O Profissional</title>
-    <desc lang="pt">Um traficante de drogas e sua família são assassinados por Gary Stansfield, um corrupto policial da divisão de narcóticos(n)</desc>
+  <programme start="20180412183900 -0300" stop="20180412185100 -0300" channel="FX HD">
+    <title lang="pt">O Último Programa do Mundo</title>
+    <desc lang="pt">O Último Programa do Mundo é um programa de TV semanal que ocorre em um cenário pós apocalíptico, onde não haverá outro programa de TV(n)</desc>
     <credits>
-      <director>Luc Besson</director>
-      <actor>Gary Oldman</actor>
-      <actor>Natalie Portman</actor>
-      <actor>Jean Reno</actor>
-      <actor>Danny Aiello</actor>
-      <actor>Peter Appel</actor>
-      <actor>Willi One Blood</actor>
-      <actor>Don Creech</actor>
-      <actor>Keith A. Glascoe</actor>
-      <actor>Randolph Scott</actor>
-      <actor>Michael Badalucco</actor>
-      <actor>Elizabeth Regen</actor>
+      <director>Juliano Enrico</director>
+      <director>Raul Chequer</director>
+      <actor>Caito Mainer</actor>
+      <actor>Daniel Furlan</actor>
+      <actor>David Benincá</actor>
     </credits>
-    <category lang="pt">Filme</category>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-    <star-rating>
-      <value>5.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180411223000 -0300" stop="20180412002800 -0300" channel="FX HD">
-    <title lang="pt">Lágrimas do Sol</title>
-    <desc lang="pt">O tenente A.K.Waters é enviado à Nigéria para resgatar a dra. Lena Hendricks, mas ela se nega a partir. Ele terá de decidir entre o dever e a consciência(n)</desc>
-    <credits>
-      <director>Antoine Fuqua</director>
-      <actor>Bruce Willis</actor>
-      <actor>Monica Bellucci</actor>
-      <actor>Cole Hauser</actor>
-      <actor>Eamonn Walker</actor>
-      <actor>Tom Skerritt</actor>
-      <actor>Nick Chinlund</actor>
-      <actor>Charles Ingram</actor>
-      <actor>Paul Francis</actor>
-      <actor>Malick Bowens</actor>
-      <actor>Ida Onyango</actor>
-    </credits>
-    <category lang="pt">Filme</category>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-    <star-rating>
-      <value>4.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180411001500 -0300" stop="20180411005000 -0300" channel="HBO HD">
-    <title lang="pt">Barry</title>
-    <desc lang="pt">Um ex-fuzileiro naval solitário e insatisfeito que trabalha como assassino de aluguel viaja para Los Angeles para fazer um serviço e acaba descobrindo que a comunidade de atores da cidade é uma comunidade disposta a abraçá-lo(n)</desc>
-    <credits>
-      <director>null</director>
-      <actor>Bill Hader</actor>
-      <actor>Henry Winkler</actor>
-      <actor>Stephen Root</actor>
-      <actor>Sarah Goldberg</actor>
-      <actor>Glenn Fleshler</actor>
-      <actor>Anthony Carrigan</actor>
-    </credits>
-    <category lang="pt">Séries</category>
+    <category lang="pt">Variedades</category>
     <rating system="BR">
       <value>16</value>
     </rating>
@@ -817,148 +805,80 @@
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20180411005000 -0300" stop="20180411022500 -0300" channel="HBO HD">
-    <title lang="pt">Eu Compartilho. Eu Gosto. Eu Sigo.</title>
-    <desc lang="pt">Garrett é um astro emergente do YouTube e Shell é uma fã super emotiva. Eles começam uma relação romântica que rapidamente se transforma em assédio, obsessão e loucura(n)</desc>
+  <programme start="20180412185100 -0300" stop="20180412190300 -0300" channel="FX HD">
+    <title lang="pt">O Último Programa do Mundo</title>
+    <desc lang="pt">O Último Programa do Mundo é um programa de TV semanal que ocorre em um cenário pós apocalíptico, onde não haverá outro programa de TV(n)</desc>
     <credits>
-      <director>Glenn Gers</director>
-      <actor>Keiynan Lonsdale</actor>
-      <actor>Ema Horvath</actor>
-      <actor>Abraham Benrubi</actor>
-      <actor>Michael Boatman</actor>
-      <actor>Gabriel Conte</actor>
-      <actor>Patrick Gorman</actor>
-      <actor>Norma Maldonado</actor>
+      <director>Juliano Enrico</director>
+      <director>Raul Chequer</director>
+      <actor>Caito Mainer</actor>
+      <actor>Daniel Furlan</actor>
+      <actor>David Benincá</actor>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180412190300 -0300" stop="20180412203400 -0300" channel="FX HD">
+    <title lang="pt">O Concurso</title>
+    <desc lang="pt">Rogério Carlos, Bernardinho e Freitas vieram de diferentes partes do país para o Rio a fim participar de um concurso para se tornar juiz. Eles conhecem outro candidato, Caio, que coloca todos em uma enrascada(n)</desc>
+    <credits>
+      <director>Pedro Vasconcelos</director>
+      <actor>Danton Mello</actor>
+      <actor>Fábio Porchat</actor>
+      <actor>Sabrina Sato</actor>
+      <actor>Rodrigo Pandolfo</actor>
+      <actor>Anderson Di Rizzi</actor>
+      <actor>Carol Castro</actor>
     </credits>
     <category lang="pt">Filme</category>
     <rating system="BR">
-      <value>14</value>
+      <value>12</value>
     </rating>
     <star-rating>
       <value>3.0</value>
     </star-rating>
   </programme>
-  <programme start="20180411022500 -0300" stop="20180411042000 -0300" channel="HBO HD">
-    <title lang="pt">Sete Psicopatas e um Shih Tzu</title>
-    <desc lang="pt">Marty precisa de uma dose de inspiração para terminar sua peça de teatro. Quando seu melhor amigo sequestra o cachorro de um mafioso, acha que encontrou a inspiração, mas esse fato pode acabar com sua vida. Poderá sobreviver?(n)</desc>
+  <programme start="20180412203400 -0300" stop="20180412223000 -0300" channel="FX HD">
+    <title lang="pt">6 Balas</title>
+    <desc lang="pt">Quando o tráfico humano é um inimigo, chamam Jean-Claude Van Damme. Após uma missão de resgate mal sucedida, o mercenário Samson Gália vai sair do negócio, mas logo se sente tentado a tomar uma última missão(n)</desc>
     <credits>
-      <director>Martin McDonagh</director>
-      <actor>Michael Pitt</actor>
-      <actor>Sam Rockwell</actor>
-      <actor>Colin Farrell</actor>
-      <actor>Michael Stuhlbarg</actor>
-      <actor>Abbie Cornish</actor>
-      <actor>Christopher Walken</actor>
+      <director>Ernie Barbarash</director>
+      <actor>Jean Claude Van Damme</actor>
+      <actor>Joe Flanigan</actor>
+      <actor>Anna-louise Plowman</actor>
+      <actor>Charlotte Beaumont</actor>
+      <actor>Steve Nicolson</actor>
+      <actor>Uriel Emil Pollack</actor>
+      <actor>Louis Dempsey</actor>
+      <actor>Mark A. Lewis</actor>
     </credits>
     <category lang="pt">Filme</category>
     <rating system="BR">
       <value>16</value>
     </rating>
     <star-rating>
-      <value>5.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180411042000 -0300" stop="20180411062000 -0300" channel="HBO HD">
-    <title lang="pt">Rolling Stone: Stories From The Edge</title>
-    <sub-title lang="pt">Parte 2</sub-title>
-    <desc lang="pt">Documentário que narra os últimos 50 anos de música, política e cultura popular americana através da história da Rolling Stone, uma revista que entendeu que o rock 'n' roll era mais que música: era uma força cultural que mudou EUA(n)</desc>
-    <credits>
-      <director>Blair Foster</director>
-      <director>Alex Gibney</director>
-    </credits>
-    <category lang="pt">Filme</category>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180411062000 -0300" stop="20180411080000 -0300" channel="HBO HD">
-    <title lang="pt">MIB</title>
-    <sub-title lang="pt">Homens de Preto</sub-title>
-    <desc lang="pt">O agente K é um dos fundadores da organização secreta MIB. O ex-policial J se une a K para desvendar os mistérios de um possível ataque alienígena(n)</desc>
-    <credits>
-      <director>Barry Sonnenfeld</director>
-      <actor>Tommy Lee Jones</actor>
-      <actor>Will Smith</actor>
-      <actor>Linda Fiorentino</actor>
-      <actor>Vincent D'Onofrio</actor>
-      <actor>Rip Torn</actor>
-      <actor>Tony Shalhoub</actor>
-      <actor>Siobhan Fallon</actor>
-      <actor>Mike Nussbaun</actor>
-      <actor>Jon Gries</actor>
-      <actor>Sergio Calderón</actor>
-      <actor>Richard Hamilton</actor>
-    </credits>
-    <category lang="pt">Filme</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-    <star-rating>
       <value>4.0</value>
     </star-rating>
   </programme>
-  <programme start="20180411080000 -0300" stop="20180411101500 -0300" channel="HBO HD">
-    <title lang="pt">O Mago das Mentiras</title>
-    <desc lang="pt">Um olhar para o corretor de ações e consultor financeiro Bernie Madoff em 2008, ano em que foi preso por cometer talvez a maior fraude financeira na história dos Estados Unidos(n)</desc>
+  <programme start="20180412223000 -0300" stop="20180413003700 -0300" channel="FX HD">
+    <title lang="pt">O Exterminador do Futuro: Gênesis</title>
+    <desc lang="pt">Em 2029, a resistência humana contra as máquinas é comandada por John Connor. Ao saber que a Skynet enviou um exterminador ao passado com o objetivo de matar sua mãe, Sarah Connor, antes de seu nascimento(n)</desc>
     <credits>
-      <director>Barry Levinson</director>
-      <actor>Alessandro Nivola</actor>
-      <actor>Lily Rabe</actor>
-      <actor>Hank Azaria</actor>
-      <actor>Michelle Pfeiffer</actor>
-      <actor>Robert De Niro</actor>
-      <actor>Kathrine Narducci</actor>
-    </credits>
-    <category lang="pt">Filme</category>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180411101500 -0300" stop="20180411120000 -0300" channel="HBO HD">
-    <title lang="pt">Paixão Obsessiva</title>
-    <desc lang="pt">Quando o casamento entre David e Tessa termina, ele fica com a casa e com a guarda da filha pequena(n)</desc>
-    <credits>
-      <director>Denise Di Novi</director>
-      <actor>Rosario Dawson</actor>
-      <actor>Katherine Heigl</actor>
-      <actor>Geoff Stults</actor>
-      <actor>Isabella Kai Rice</actor>
-      <actor>Alex Quijano</actor>
-      <actor>Sarah Burns</actor>
-      <actor>Whitney Cummings</actor>
-    </credits>
-    <category lang="pt">Filme</category>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-    <star-rating>
-      <value>4.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180411120000 -0300" stop="20180411134000 -0300" channel="HBO HD">
-    <title lang="pt">Austin Powers</title>
-    <sub-title lang="pt">O Agente Bond Cama</sub-title>
-    <desc lang="pt">Austin Powers volta a lutar contra o terrível Dr. Evil que, desta vez, pretende roubar a arma secreta do super-espião: o mojo, a potência sexual de Austin(n)</desc>
-    <credits>
-      <director>Jay Roach</director>
-      <actor>Mike Myers</actor>
-      <actor>Heather Graham</actor>
-      <actor>Michael York</actor>
-      <actor>Robert Wagner</actor>
-      <actor>Seth Green</actor>
-      <actor>Elizabeth Hurley</actor>
-      <actor>Rob Lowe</actor>
-      <actor>Mindy Sterling</actor>
-      <actor>Verne Troyer</actor>
-      <actor>Gia Carides</actor>
-      <actor>Oliver Muihead</actor>
-      <actor>Muse Watson</actor>
+      <director>Alan Taylor</director>
+      <actor>Arnold Schwarzenegger</actor>
+      <actor>Jason Clarke</actor>
+      <actor>Emilia Clarke</actor>
+      <actor>Jai Courtney</actor>
+      <actor>J.K. Simmons</actor>
+      <actor>Dayo Okeniyi</actor>
+      <actor>Matt Smith</actor>
+      <actor>Courtney B. Vance</actor>
+      <actor>Byung-hun Lee</actor>
     </credits>
     <category lang="pt">Filme</category>
     <rating system="BR">
@@ -968,34 +888,10 @@
       <value>4.0</value>
     </star-rating>
   </programme>
-  <programme start="20180411134000 -0300" stop="20180411155400 -0300" channel="HBO HD">
-    <title lang="pt">V de Vingança</title>
-    <desc lang="pt">Guerrilheiro das sombras, conhecido apenas como ''V'', usa táticas terroristas para lutar contra o totalitarismo na sociedade. Após resgatar uma garota da polícia secreta, ele também descobre que tem a chance de ter uma aliada(n)</desc>
-    <credits>
-      <director>James McTeigue</director>
-      <actor>Natalie Portman</actor>
-      <actor>Hugo Weaving</actor>
-      <actor>Stephen Rea</actor>
-      <actor>Stephen Fry</actor>
-      <actor>John Hurt</actor>
-      <actor>Tim Pigott-Smith</actor>
-      <actor>Rupert Graves</actor>
-      <actor>Roger Allam</actor>
-      <actor>Natasha Wightman</actor>
-      <actor>Eddie Marsan</actor>
-    </credits>
-    <category lang="pt">Filme</category>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-    <star-rating>
-      <value>5.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180411155400 -0300" stop="20180411160500 -0300" channel="HBO HD">
-    <title lang="pt">Especial Ready Player One Vr Hbo Bra</title>
-    <desc lang="pt">Sinopse não disponível(n)</desc>
-    <category lang="pt">Variedades</category>
+  <programme start="20180412003500 -0300" stop="20180412010500 -0300" channel="HBO HD">
+    <title lang="pt">Destino Rússia 2018</title>
+    <desc lang="pt">Este ano tem Copa do Mundo e a paixão pelo futebol ganha força. Destino Rússia 2018 acompanha a rotina dos jogadores e os bastidores da preparação das seleções rumo à Rússia 2018(n)</desc>
+    <category lang="pt">Séries</category>
     <rating system="BR">
       <value>10</value>
     </rating>
@@ -1003,44 +899,89 @@
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20180411160500 -0300" stop="20180411180500 -0300" channel="HBO HD">
-    <title lang="pt">Rolling Stone: Stories From The Edge</title>
-    <sub-title lang="pt">Parte 2</sub-title>
-    <desc lang="pt">Documentário que narra os últimos 50 anos de música, política e cultura popular americana através da história da Rolling Stone, uma revista que entendeu que o rock 'n' roll era mais que música: era uma força cultural que mudou EUA(n)</desc>
+  <programme start="20180412010500 -0300" stop="20180412024500 -0300" channel="HBO HD">
+    <title lang="pt">O Jeremias</title>
+    <desc lang="pt">Jeremias é um garoto de oito anos que descobre ser um gênio. Ele luta para ter sucesso apesar da ignorância e pobreza de sua família(n)</desc>
     <credits>
-      <director>Blair Foster</director>
-      <director>Alex Gibney</director>
+      <director>Anwar Safa</director>
+      <actor>Isela Vega</actor>
+      <actor>Martín Castro</actor>
+      <actor>Karem Momo Ruiz</actor>
+      <actor>Marcela Sotomayor</actor>
+      <actor>Eduardo MacGregor</actor>
     </credits>
     <category lang="pt">Filme</category>
     <rating system="BR">
-      <value>14</value>
+      <value>12</value>
     </rating>
     <star-rating>
-      <value>1.0</value>
+      <value>5.0</value>
     </star-rating>
   </programme>
-  <programme start="20180411180500 -0300" stop="20180411190500 -0300" channel="HBO HD">
-    <title lang="pt">Fora do Armário</title>
-    <desc lang="pt">Fora do Armário revelam o que acontece depois que uma pessoa “sai do armário” e expõe sua orientação e identidade sexual. Por meio de entrevistas e cenas da vida real no estilo “Cinema Verité”(n)</desc>
-    <category lang="pt">Séries</category>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20180411190500 -0300" stop="20180411213000 -0300" channel="HBO HD">
-    <title lang="pt">Manchester à Beira-Mar</title>
-    <desc lang="pt">Lee é forçado a retornar para sua cidade natal para tomar conta de seu sobrinho após o pai dele, seu irmão, falecer. Este retorno ficará ainda mais complicado quando Lee precisar enfrentar as razões que o fizeram ir embora(n)</desc>
+  <programme start="20180412024500 -0300" stop="20180412041500 -0300" channel="HBO HD">
+    <title lang="pt">Kareem: Minoria de Um</title>
+    <desc lang="pt">Documentário original HBO que mostra a influente carreira do astro americano do basquete Kareem Abdul-Jabbar: uma lenda dentro e fora das quadras(n)</desc>
     <credits>
-      <director>Kenneth Lonergan</director>
-      <actor>Casey Affleck</actor>
-      <actor>Michelle Williams</actor>
-      <actor>Kyle Chandler</actor>
-      <actor>Richard Donelly</actor>
-      <actor>Virginia Loring Cooke</actor>
-      <actor>Mary mallen</actor>
+      <director>Ron Yassen</director>
+      <actor>Kareem Abdul-Jabbar</actor>
+      <actor>Billy Crystal</actor>
+      <actor>Arsenio Hall</actor>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180412041500 -0300" stop="20180412061000 -0300" channel="HBO HD">
+    <title lang="pt">O Trovão Azul</title>
+    <desc lang="pt">Piloto de um super-helicóptero equipado com as mais modernas armas de destruição, torna-se alvo de agentes policiais envolvidos num golpe(n)</desc>
+    <credits>
+      <director>John Badham</director>
+      <actor>Roy Scheider</actor>
+      <actor>David Sheiner</actor>
+      <actor>Paul Roebling</actor>
+      <actor>Joe Santos</actor>
+      <actor>Malcolm Mcdowell</actor>
+      <actor>Daniel Stern</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180412061000 -0300" stop="20180412073000 -0300" channel="HBO HD">
+    <title lang="pt">Lego Liga da Justiça: Fuga em Massa em Gotham City</title>
+    <desc lang="pt">Batman decide finalmente tirar suas merecidas férias e deixar Gotham City sob os cuidados da Liga da Justiça. Mas enquanto Batman enfrenta velhos inimigos durante sua viagem, a Liga descobre como é difícil ser o Batman(n)</desc>
+    <credits>
+      <director>Matt Peters</director>
+      <director>Melchior Zwyer</director>
+      <actor>Troy Baker</actor>
+      <actor>Eric Bauza</actor>
+      <actor>Greg Cipes</actor>
+      <actor>John DiMaggio</actor>
+      <actor>Grey DeLisle. Amy Hill</actor>
+      <actor>Vanessa Marshall</actor>
+      <actor>Tom Kenny</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180412073000 -0300" stop="20180412094000 -0300" channel="HBO HD">
+    <title lang="pt">Rei Arthur: A Lenda da Espada</title>
+    <desc lang="pt">Arthur é um jovem das ruas e desconhece sua predestinação até o momento em que entra em contato pela primeira vez com a Excalibur(n)</desc>
+    <credits>
+      <director>Guy Ritchie</director>
     </credits>
     <category lang="pt">Filme</category>
     <rating system="BR">
@@ -1050,7 +991,71 @@
       <value>5.0</value>
     </star-rating>
   </programme>
-  <programme start="20180411213000 -0300" stop="20180411220000 -0300" channel="HBO HD">
+  <programme start="20180412094000 -0300" stop="20180412113500 -0300" channel="HBO HD">
+    <title lang="pt">Inseparáveis</title>
+    <desc lang="pt">Um rico empresário se tornou tetraplégico devido a um acidente e está procurando por um novo assistente terapêutico. Ele decide contratar o assistente de seu jardineiro, ainda que as  pessoas próximas a ele desaprovem sua escolha(n)</desc>
+    <credits>
+      <director>Marcos Carnevale</director>
+      <actor>Oscar Martínez</actor>
+      <actor>Alejandra Flechner</actor>
+      <actor>Carla Peterson</actor>
+      <actor>Malena Sánchez</actor>
+      <actor>Rodrigo De la Serna</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180412113500 -0300" stop="20180412134000 -0300" channel="HBO HD">
+    <title lang="pt">The Beach Boys</title>
+    <sub-title lang="pt">Uma História de Sucesso</sub-title>
+    <desc lang="pt">Brian Wilson fundou os Beach Boys, uma das bandas mais populares do Estados Unidos nos anos 1960. Mas, ao longo de sua vida, luta com seus problemas mentais, enquanto dependente de uma série de drogas e se isola da sociedade(n)</desc>
+    <credits>
+      <director>Bill Pohlad</director>
+      <actor>Paul Dano</actor>
+      <actor>John Cusack</actor>
+      <actor>Elizabeth Banks</actor>
+      <actor>Paul Giamatti</actor>
+      <actor>Jake Abel</actor>
+      <actor>Kenny Wormald</actor>
+      <actor>Graham Rogers</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180412134000 -0300" stop="20180412152000 -0300" channel="HBO HD">
+    <title lang="pt">Showtime</title>
+    <desc lang="pt">Dois policiais com mentalidades diferentes são unidos por reality show que os filma em ação(n)</desc>
+    <credits>
+      <director>Tom Dey</director>
+      <actor>Robert De Niro</actor>
+      <actor>Eddie Murphy</actor>
+      <actor>Rene Russo</actor>
+      <actor>Pedro Damián</actor>
+      <actor>Ken Hudson Campbell</actor>
+      <actor>Rachel Harris</actor>
+      <actor>Zaid Farid</actor>
+      <actor>Joel Hurt Jones</actor>
+      <actor>Nestor Serrano</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180412152000 -0300" stop="20180412155000 -0300" channel="HBO HD">
     <title lang="pt">Greg News Com Gregório Duvivier</title>
     <desc lang="pt">O humorístico terá um formato um pouco diferente dos programas de entrevista no ar, no qual o apresentador irá comentar as notícias do Brasil e do mundo(n)</desc>
     <credits>
@@ -1065,21 +1070,39 @@
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20180411220000 -0300" stop="20180411233500 -0300" channel="HBO HD">
-    <title lang="pt">Refém do Medo</title>
-    <desc lang="pt">Mary Portman é uma psicóloga infantil no interior do Maine. Um acidente de carro a deixou viúva e deixou seu enteado Stephen dependente de cuidados especiais(n)</desc>
+  <programme start="20180412155000 -0300" stop="20180412180000 -0300" channel="HBO HD">
+    <title lang="pt">Rei Arthur: A Lenda da Espada</title>
+    <desc lang="pt">Arthur é um jovem das ruas e desconhece sua predestinação até o momento em que entra em contato pela primeira vez com a Excalibur(n)</desc>
     <credits>
-      <director>Farren Blackburn</director>
-      <actor>Naomi Watts</actor>
-      <actor>Oliver Platt</actor>
-      <actor>Jacob Tremblay</actor>
-      <actor>David Cubitt</actor>
-      <actor>Ellen David</actor>
-      <actor>Tim Post</actor>
-      <actor>Peter Outerbridge</actor>
-      <actor>Charlie Heaton</actor>
+      <director>Guy Ritchie</director>
     </credits>
     <category lang="pt">Filme</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180412180000 -0300" stop="20180412183000 -0300" channel="HBO HD">
+    <title lang="pt">Destino Rússia 2018</title>
+    <desc lang="pt">Este ano tem Copa do Mundo e a paixão pelo futebol ganha força. Destino Rússia 2018 acompanha a rotina dos jogadores e os bastidores da preparação das seleções rumo à Rússia 2018(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180412183000 -0300" stop="20180412190000 -0300" channel="HBO HD">
+    <title lang="pt">Last Week Tonight With John Oliver</title>
+    <desc lang="pt">John Oliver é o responsável por conduzir este programa de humor onde, durante trinta minutos, ele mostra um olhar satírico sobre as notícias, a política e fatos da atualidade(n)</desc>
+    <credits>
+      <director>Paul Pennolino</director>
+      <actor>John Oliver</actor>
+    </credits>
+    <category lang="pt">Séries</category>
     <rating system="BR">
       <value>14</value>
     </rating>
@@ -1087,7 +1110,59 @@
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20180411233500 -0300" stop="20180412003500 -0300" channel="HBO HD">
+  <programme start="20180412190000 -0300" stop="20180412210000 -0300" channel="HBO HD">
+    <title lang="pt">Paterno</title>
+    <desc lang="pt">Um retrato do veterano treinador de futebol americano Joe Paterno, no momento em que seu legado se vê ofuscado pelo escândalo de abuso sexual de seu colega Jerry Sanduzky, ao mesmo tempo em que descobre que sofre de câncer(n)</desc>
+    <credits>
+      <director>Barry Levinson</director>
+      <actor>Al Pacino</actor>
+      <actor>Riley Keough</actor>
+      <actor>Kathy Baker</actor>
+      <actor>Greg Grunberg</actor>
+      <actor>Nicholas Sadler</actor>
+      <actor>Jim Johnson</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180412210000 -0300" stop="20180412220000 -0300" channel="HBO HD">
+    <title lang="pt">Fora do Armário</title>
+    <desc lang="pt">Fora do Armário revelam o que acontece depois que uma pessoa “sai do armário” e expõe sua orientação e identidade sexual. Por meio de entrevistas e cenas da vida real no estilo “Cinema Verité”(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180412220000 -0300" stop="20180412230000 -0300" channel="HBO HD">
+    <title lang="pt">Here and Now</title>
+    <desc lang="pt">Série Original HBO apresenta uma reflexão provocativa e de humor negro sobre as forças desiguais que polarizam a atual cultura americana(n)</desc>
+    <credits>
+      <director>Minkie Spiro</director>
+      <actor>Holly Hunter</actor>
+      <actor>Sosie Bacon</actor>
+      <actor>Avynn Crowder-Jones</actor>
+      <actor>Jerrika Hinton</actor>
+      <actor>Sosie Bacon</actor>
+      <actor>Madisen Beaty</actor>
+      <actor>Madeline Bertani</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180412230000 -0300" stop="20180413000000 -0300" channel="HBO HD">
     <title lang="pt">O Negócio</title>
     <desc lang="pt">A série vai acompanhar três amigas que são garotas de programa, que estagnadas na profissão, decidem aplicar técnicas de marketing e gestão de negócios na profissão mais antiga do mundo(n)</desc>
     <credits>
@@ -1107,48 +1182,50 @@
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20180411000000 -0300" stop="20180411010000 -0300" channel="Sony HD">
-    <title lang="pt">Marvel's Daredevil</title>
-    <desc lang="pt">Murdock comete um erro quase fatal ao tentar resgatar um garoto sequestrado. Surge um aliado inusitado(n)</desc>
+  <programme start="20180412004000 -0300" stop="20180412025000 -0300" channel="Sony HD">
+    <title lang="pt">O Casamento do meu Melhor Amigo</title>
+    <desc lang="pt">Julianne entra em desespero quando descobre que um antigo amigo, apaixonado por ela, irá se casar com outra mulher. Desesperada, e apaixonada por ele, ela se mete em hilárias confusões para roubar o lugar da noiva(n)</desc>
     <credits>
-      <director>Phil Abraham</director>
-      <actor>Charlie Cox</actor>
-      <actor>Deborah Ann Woll</actor>
-      <actor>Elden Henson</actor>
-      <actor>Rosario Dawson</actor>
-      <actor>Peter Gerety</actor>
-      <actor>John Patrick Hayden</actor>
+      <director>P. J. Hogan</director>
+      <actor>Julia Roberts</actor>
+      <actor>Dermot Mulroney</actor>
+      <actor>Cameron Diaz</actor>
+      <actor>Rupert Everett</actor>
+      <actor>Philip Bosco</actor>
+      <actor>M. Emmet Walsh</actor>
     </credits>
-    <date>2015</date>
-    <episode-num system="onscreen">S1 E2</episode-num>
+    <date>1997</date>
     <rating system="BR">
-      <value>13+</value>
+      <value>9+</value>
     </rating>
   </programme>
-  <programme start="20180411010000 -0300" stop="20180411030000 -0300" channel="Sony HD">
-    <title lang="pt">Sintonia de Amor</title>
-    <desc lang="pt">Uma romântica incorrigível, Annie Reed, que sonha com encontro apaixonado, vai atrás de um pedido, feito através do rádio, de um menino que procura uma namorada para seu pai viúvo(n)</desc>
-    <credits>
-      <director>Nora Ephron</director>
-      <actor>Tom Hanks</actor>
-      <actor>Meg Ryan</actor>
-      <actor>Bill Pullman</actor>
-      <actor>Rosie O'Donnell</actor>
-      <actor>Rob Reiner</actor>
-      <actor>Ross Malinger</actor>
-      <actor>Gaby Hoffman</actor>
-      <actor>Victor Garber</actor>
-      <actor>Rita Wilson</actor>
-      <actor>Barbara Garrick</actor>
-    </credits>
-    <date>1993</date>
+  <programme start="20180412025000 -0300" stop="20180412030000 -0300" channel="Sony HD">
+    <title lang="pt">The Voice Lounge</title>
+    <desc lang="pt">The Voice Lounge é um programa de entrevistas e debates que reverbera tudo o que acontece no The Voice e no showbiz. Os apresentadores, Foquinha e Thiago Pasqualotto, recebem a cada semana convidados especiais(n)</desc>
     <rating system="BR">
       <value>7+</value>
     </rating>
   </programme>
-  <programme start="20180411030000 -0300" stop="20180411033000 -0300" channel="Sony HD">
+  <programme start="20180412030000 -0300" stop="20180412033000 -0300" channel="Sony HD">
     <title lang="pt">Como Eu Conheci Sua Mãe</title>
-    <desc lang="pt">Quando Ted recebe um chamado inesperado do Capitão, a turma relembra seu último e estranho encontro com ele(n)</desc>
+    <desc lang="pt">Com o dia de seu casamento se aproximando, Robin diz a Barney que é hora de resolver onde irão morar. Ela deixa claro que nunca concordará em morar no apartamento dele - onde todas as suas escapadas sexuais aconteceram(n)</desc>
+    <credits>
+      <director>Michael J. Shea</director>
+      <actor>Josh Radnor</actor>
+      <actor>Jason Segel</actor>
+      <actor>Cobie Smulders</actor>
+      <actor>Neil Patrick Harris</actor>
+      <actor>Alyson Hannigan</actor>
+    </credits>
+    <date>2013</date>
+    <episode-num system="onscreen">S8 E19</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180412033000 -0300" stop="20180412040000 -0300" channel="Sony HD">
+    <title lang="pt">Como Eu Conheci Sua Mãe</title>
+    <desc lang="pt">Versões futuras de Ted e Barney tentam convencer Ted a ver(n)</desc>
     <credits>
       <director>Pamela Fryman</director>
       <actor>Josh Radnor</actor>
@@ -1158,156 +1235,12 @@
       <actor>Alyson Hannigan</actor>
     </credits>
     <date>2013</date>
-    <episode-num system="onscreen">S8 E17</episode-num>
+    <episode-num system="onscreen">S8 E20</episode-num>
     <rating system="BR">
       <value>9+</value>
     </rating>
   </programme>
-  <programme start="20180411033000 -0300" stop="20180411040000 -0300" channel="Sony HD">
-    <title lang="pt">Como Eu Conheci Sua Mãe</title>
-    <desc lang="pt">Depois da separação de Ted e Jeanette, Barney tenta bancar o cupido. Enquanto isso, Marshall recebe uma atenção inesperada na abertura de uma galeria de arte onde Lily está tentando causar uma boa impressão(n)</desc>
-    <credits>
-      <director>Pamela Fryman</director>
-      <actor>Josh Radnor</actor>
-      <actor>Jason Segel</actor>
-      <actor>Cobie Smulders</actor>
-      <actor>Neil Patrick Harris</actor>
-      <actor>Alyson Hannigan</actor>
-      <actor>Abby Elliott</actor>
-    </credits>
-    <date>2013</date>
-    <episode-num system="onscreen">S8 E18</episode-num>
-    <rating system="BR">
-      <value>9+</value>
-    </rating>
-  </programme>
-  <programme start="20180411040000 -0300" stop="20180411050000 -0300" channel="Sony HD">
-    <title lang="pt">Lobo Adolescente</title>
-    <desc lang="pt">Quando um dos seus desaparece, Scott e o bando viajam para o México em um missão de busca e resgate(n)</desc>
-    <credits>
-      <director>Russell Mulcahy</director>
-      <actor>Tyler Posey</actor>
-      <actor>Crystal Reed</actor>
-      <actor>Dylan O'Brien</actor>
-      <actor>Holland Roden</actor>
-      <actor>Linden Ashby</actor>
-      <actor>Tyler Hoechlin</actor>
-      <actor>Arden Cho</actor>
-      <actor>Melissa Ponzio</actor>
-    </credits>
-    <date>2014</date>
-    <episode-num system="onscreen">S4 E1</episode-num>
-    <rating system="BR">
-      <value>11+</value>
-    </rating>
-  </programme>
-  <programme start="20180411050000 -0300" stop="20180411060000 -0300" channel="Sony HD">
-    <title lang="pt">Lobo Adolescente</title>
-    <desc lang="pt">Ansioso por colocar um fim no plano de Kate, Scott precisa se juntar a um aliado inesperado para completar uma tarefa(n)</desc>
-    <credits>
-      <director>Christian Taylor</director>
-      <actor>Tyler Posey</actor>
-      <actor>Crystal Reed</actor>
-      <actor>Dylan O'Brien</actor>
-      <actor>Holland Roden</actor>
-      <actor>Linden Ashby</actor>
-      <actor>Tyler Hoechlin</actor>
-      <actor>Arden Cho</actor>
-      <actor>Melissa Ponzio</actor>
-    </credits>
-    <date>2014</date>
-    <episode-num system="onscreen">S4 E2</episode-num>
-    <rating system="BR">
-      <value>11+</value>
-    </rating>
-  </programme>
-  <programme start="20180411060000 -0300" stop="20180411063000 -0300" channel="Sony HD">
-    <title lang="pt">Chefs em Ação</title>
-    <desc lang="pt">Os chefs Leonardo Roncon e Rafael Barros deixam o seu dia muito mais saboroso. Com uma abordagem completa e pioneira, a dupla ensina receitas práticas e ousadas que vão desde o prato de entrada a sobremesas(n)</desc>
-    <episode-num system="onscreen">S2 E117</episode-num>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20180411063000 -0300" stop="20180411070000 -0300" channel="Sony HD">
-    <title lang="pt">A Roupa Ideal</title>
-    <desc lang="pt">Mais do que ditar regras do que é certo e errado, o programa oferece ferramentas e conhecimento para você encontrar um visual que exalte a melhor versão de você mesmo(n)</desc>
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="BR">
-      <value>7+</value>
-    </rating>
-  </programme>
-  <programme start="20180411070000 -0300" stop="20180411073000 -0300" channel="Sony HD">
-    <title lang="pt">Jovem e Gourmet</title>
-    <desc lang="pt">Josh está prestes a lançar seu novo aplicativo e começa a surtar(n)</desc>
-    <credits>
-      <director>Andy Cadiff</director>
-      <actor>Emily Osment</actor>
-      <actor>Jonathan Sadowski</actor>
-      <actor>Aimee Carrero</actor>
-    </credits>
-    <date>2015</date>
-    <episode-num system="onscreen">S2 E16</episode-num>
-    <rating system="BR">
-      <value>9+</value>
-    </rating>
-  </programme>
-  <programme start="20180411073000 -0300" stop="20180411080000 -0300" channel="Sony HD">
-    <title lang="pt">Família Desajustada</title>
-    <desc lang="pt">Após um mês de grandes gastos, Dre e Bow começam a questionar se estão esbanjando demais(n)</desc>
-    <credits>
-      <director>Millicent Shelton</director>
-      <actor>Anthony Anderson</actor>
-      <actor>Tracee Ellis Ross</actor>
-      <actor>Yara Shahidi</actor>
-      <actor>Marsai Martin</actor>
-      <actor>Laurence Fishburne</actor>
-      <actor>Peter Mackenzie</actor>
-      <actor>John Witherspoon</actor>
-    </credits>
-    <date>2015</date>
-    <episode-num system="onscreen">S2 E13</episode-num>
-    <rating system="BR">
-      <value>11+</value>
-    </rating>
-  </programme>
-  <programme start="20180411080000 -0300" stop="20180411100000 -0300" channel="Sony HD">
-    <title lang="pt">The Voice</title>
-    <desc lang="pt">Os melhores cantores dos Estados Unidos se enfrentarão mais uma vez durante as diferentes fases do concurso, com o objetivo de obter o título de grande vencedor(n)</desc>
-    <date>2018</date>
-    <episode-num system="onscreen">S14 E11</episode-num>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20180411100000 -0300" stop="20180411110000 -0300" channel="Sony HD">
-    <title lang="pt">The Voice</title>
-    <desc lang="pt">Os melhores cantores dos Estados Unidos se enfrentarão mais uma vez durante as diferentes fases do concurso, com o objetivo de obter o título de grande vencedor(n)</desc>
-    <date>2018</date>
-    <episode-num system="onscreen">S14 E13</episode-num>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20180411110000 -0300" stop="20180411120000 -0300" channel="Sony HD">
-    <title lang="pt">The Voice</title>
-    <desc lang="pt">Os melhores cantores dos Estados Unidos se enfrentarão mais uma vez durante as diferentes fases do concurso, com o objetivo de obter o título de grande vencedor(n)</desc>
-    <date>2018</date>
-    <episode-num system="onscreen">S14 E13</episode-num>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20180411120000 -0300" stop="20180411140000 -0300" channel="Sony HD">
-    <title lang="pt">American Idol</title>
-    <desc lang="pt">Um apresentador que não deixa a peteca cair e jurados que dizem exatamente o que acham e o que pensam, você irá torcer pelos candidatos que desejam ser os próximos ídolos musicais da América(n)</desc>
-    <date>2018</date>
-    <episode-num system="onscreen">S16 E8</episode-num>
-    <rating system="BR">
-      <value>9+</value>
-    </rating>
-  </programme>
-  <programme start="20180411140000 -0300" stop="20180411150000 -0300" channel="Sony HD">
+  <programme start="20180412040000 -0300" stop="20180412050000 -0300" channel="Sony HD">
     <title lang="pt">Lobo Adolescente</title>
     <desc lang="pt">Um novo jogador coloca a posição de Scott no time de Lacrosse em risco. Enquanto isso, Stilinski investiga um assassinato brutal(n)</desc>
     <credits>
@@ -1327,7 +1260,7 @@
       <value>11+</value>
     </rating>
   </programme>
-  <programme start="20180411150000 -0300" stop="20180411160000 -0300" channel="Sony HD">
+  <programme start="20180412050000 -0300" stop="20180412060000 -0300" channel="Sony HD">
     <title lang="pt">Lobo Adolescente</title>
     <desc lang="pt">Na noite da lua cheia, convidados inesperados visitam a casa de Lydia no lago. Enquanto isso, Derek persegue um assassino(n)</desc>
     <credits>
@@ -1346,9 +1279,25 @@
       <value>11+</value>
     </rating>
   </programme>
-  <programme start="20180411160000 -0300" stop="20180411163000 -0300" channel="Sony HD">
+  <programme start="20180412060000 -0300" stop="20180412063000 -0300" channel="Sony HD">
+    <title lang="pt">Chefs em Ação</title>
+    <desc lang="pt">Os chefs Leonardo Roncon e Rafael Barros deixam o seu dia muito mais saboroso. Com uma abordagem completa e pioneira, a dupla ensina receitas práticas e ousadas que vão desde o prato de entrada a sobremesas(n)</desc>
+    <episode-num system="onscreen">S2 E118</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180412063000 -0300" stop="20180412070000 -0300" channel="Sony HD">
+    <title lang="pt">Chefs em Ação</title>
+    <desc lang="pt">Os chefs Leonardo Roncon e Rafael Barros deixam o seu dia muito mais saboroso. Com uma abordagem completa e pioneira, a dupla ensina receitas práticas e ousadas que vão desde o prato de entrada a sobremesas(n)</desc>
+    <episode-num system="onscreen">E128</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180412070000 -0300" stop="20180412073000 -0300" channel="Sony HD">
     <title lang="pt">Jovem e Gourmet</title>
-    <desc lang="pt">Josh está prestes a lançar seu novo aplicativo e começa a surtar(n)</desc>
+    <desc lang="pt">A Parada do Orgulho Gay desfila por São Francisco e, como o apartamento de Gabi está na rota do desfile, ela resolve alugar o local pelo fim de semana(n)</desc>
     <credits>
       <director>Andy Cadiff</director>
       <actor>Emily Osment</actor>
@@ -1356,50 +1305,142 @@
       <actor>Aimee Carrero</actor>
     </credits>
     <date>2015</date>
-    <episode-num system="onscreen">S2 E16</episode-num>
+    <episode-num system="onscreen">S2 E18</episode-num>
     <rating system="BR">
       <value>9+</value>
     </rating>
   </programme>
-  <programme start="20180411163000 -0300" stop="20180411170000 -0300" channel="Sony HD">
+  <programme start="20180412073000 -0300" stop="20180412080000 -0300" channel="Sony HD">
     <title lang="pt">Família Desajustada</title>
-    <desc lang="pt">Após um mês de grandes gastos, Dre e Bow começam a questionar se estão esbanjando demais(n)</desc>
+    <desc lang="pt">Dre percebe que sua vizinha, Janine, nunca os convidou para suas festas na piscina e presume que ela racialmente os estereotipou como uma família que não nada(n)</desc>
     <credits>
-      <director>Millicent Shelton</director>
+      <director>Michael Schultz</director>
       <actor>Anthony Anderson</actor>
       <actor>Tracee Ellis Ross</actor>
       <actor>Yara Shahidi</actor>
-      <actor>Marsai Martin</actor>
-      <actor>Laurence Fishburne</actor>
-      <actor>Peter Mackenzie</actor>
-      <actor>John Witherspoon</actor>
+      <actor>Marcus Scribner</actor>
+      <actor>Miles Brown</actor>
+      <actor>Jeff Meacham</actor>
+      <actor>Brittany Daniel</actor>
     </credits>
     <date>2015</date>
-    <episode-num system="onscreen">S2 E13</episode-num>
+    <episode-num system="onscreen">S2 E14</episode-num>
     <rating system="BR">
       <value>11+</value>
     </rating>
   </programme>
-  <programme start="20180411170000 -0300" stop="20180411173000 -0300" channel="Sony HD">
-    <title lang="pt">Como Eu Conheci Sua Mãe</title>
-    <desc lang="pt">Com o dia de seu casamento se aproximando, Robin diz a Barney que é hora de resolver onde irão morar. Ela deixa claro que nunca concordará em morar no apartamento dele - onde todas as suas escapadas sexuais aconteceram(n)</desc>
-    <credits>
-      <director>Michael J. Shea</director>
-      <actor>Josh Radnor</actor>
-      <actor>Jason Segel</actor>
-      <actor>Cobie Smulders</actor>
-      <actor>Neil Patrick Harris</actor>
-      <actor>Alyson Hannigan</actor>
-    </credits>
-    <date>2013</date>
-    <episode-num system="onscreen">S8 E19</episode-num>
+  <programme start="20180412080000 -0300" stop="20180412090000 -0300" channel="Sony HD">
+    <title lang="pt">The Voice</title>
+    <desc lang="pt">Os melhores cantores dos Estados Unidos se enfrentarão mais uma vez durante as diferentes fases do concurso, com o objetivo de obter o título de grande vencedor(n)</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">S14 E13</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180412090000 -0300" stop="20180412100000 -0300" channel="Sony HD">
+    <title lang="pt">The Voice</title>
+    <desc lang="pt">Os melhores cantores dos Estados Unidos se enfrentarão mais uma vez durante as diferentes fases do concurso, com o objetivo de obter o título de grande vencedor(n)</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">S14 E13</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180412100000 -0300" stop="20180412120000 -0300" channel="Sony HD">
+    <title lang="pt">The Voice</title>
+    <desc lang="pt">Os melhores cantores dos Estados Unidos se enfrentarão mais uma vez durante as diferentes fases do concurso, com o objetivo de obter o título de grande vencedor(n)</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">S14 E14</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180412120000 -0300" stop="20180412140000 -0300" channel="Sony HD">
+    <title lang="pt">American Idol</title>
+    <desc lang="pt">Um apresentador que não deixa a peteca cair e jurados que dizem exatamente o que acham e o que pensam, você irá torcer pelos candidatos que desejam ser os próximos ídolos musicais da América(n)</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">S16 E9</episode-num>
     <rating system="BR">
       <value>9+</value>
     </rating>
   </programme>
-  <programme start="20180411173000 -0300" stop="20180411180000 -0300" channel="Sony HD">
+  <programme start="20180412140000 -0300" stop="20180412150000 -0300" channel="Sony HD">
+    <title lang="pt">Lobo Adolescente</title>
+    <desc lang="pt">Scott, Stiles e Kira participam do primeiro jogo de Lacrosse. Enquanto isso, Lydia procura ajuda para controlar seus poderes(n)</desc>
+    <credits>
+      <director>Jennifer Lynch</director>
+      <actor>Tyler Posey</actor>
+      <actor>Dylan O'Brien</actor>
+      <actor>Holland Roden</actor>
+      <actor>Linden Ashby</actor>
+      <actor>JR Bourne</actor>
+      <actor>Arden Cho</actor>
+      <actor>Shelley Hennig</actor>
+      <actor>Khylin Rhambo</actor>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S4 E5</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180412150000 -0300" stop="20180412160000 -0300" channel="Sony HD">
+    <title lang="pt">Lobo Adolescente</title>
+    <desc lang="pt">Um perigoso inimigo força Scott a ajudá-lo. Enquanto isso, Derek e Malia procuram um velho aliado(n)</desc>
+    <credits>
+      <director>Russell Mulcahy</director>
+      <actor>Tyler Posey</actor>
+      <actor>Dylan O'Brien</actor>
+      <actor>Holland Roden</actor>
+      <actor>Linden Ashby</actor>
+      <actor>JR Bourne</actor>
+      <actor>Tyler Hoechlin</actor>
+      <actor>Shelley Hennig</actor>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S4 E6</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180412160000 -0300" stop="20180412163000 -0300" channel="Sony HD">
+    <title lang="pt">Jovem e Gourmet</title>
+    <desc lang="pt">A Parada do Orgulho Gay desfila por São Francisco e, como o apartamento de Gabi está na rota do desfile, ela resolve alugar o local pelo fim de semana(n)</desc>
+    <credits>
+      <director>Andy Cadiff</director>
+      <actor>Emily Osment</actor>
+      <actor>Jonathan Sadowski</actor>
+      <actor>Aimee Carrero</actor>
+    </credits>
+    <date>2015</date>
+    <episode-num system="onscreen">S2 E18</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180412163000 -0300" stop="20180412170000 -0300" channel="Sony HD">
+    <title lang="pt">Família Desajustada</title>
+    <desc lang="pt">Dre percebe que sua vizinha, Janine, nunca os convidou para suas festas na piscina e presume que ela racialmente os estereotipou como uma família que não nada(n)</desc>
+    <credits>
+      <director>Michael Schultz</director>
+      <actor>Anthony Anderson</actor>
+      <actor>Tracee Ellis Ross</actor>
+      <actor>Yara Shahidi</actor>
+      <actor>Marcus Scribner</actor>
+      <actor>Miles Brown</actor>
+      <actor>Jeff Meacham</actor>
+      <actor>Brittany Daniel</actor>
+    </credits>
+    <date>2015</date>
+    <episode-num system="onscreen">S2 E14</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180412170000 -0300" stop="20180412173000 -0300" channel="Sony HD">
     <title lang="pt">Como Eu Conheci Sua Mãe</title>
-    <desc lang="pt">Versões futuras de Ted e Barney tentam convencer Ted a ver(n)</desc>
+    <desc lang="pt">Quando o Capitão pede que Lily se mude para Roma por um ano para ser sua consultora de arte, ela teme pela reação de Marshall(n)</desc>
     <credits>
       <director>Pamela Fryman</director>
       <actor>Josh Radnor</actor>
@@ -1409,57 +1450,604 @@
       <actor>Alyson Hannigan</actor>
     </credits>
     <date>2013</date>
-    <episode-num system="onscreen">S8 E20</episode-num>
+    <episode-num system="onscreen">S8 E21</episode-num>
     <rating system="BR">
       <value>9+</value>
     </rating>
   </programme>
-  <programme start="20180411180000 -0300" stop="20180411183000 -0300" channel="Sony HD">
+  <programme start="20180412173000 -0300" stop="20180412180000 -0300" channel="Sony HD">
+    <title lang="pt">Como Eu Conheci Sua Mãe</title>
+    <desc lang="pt">Determinado a fazer uma despedida de solteiro lendária, Ted, Marshall e Lily sequestram Barney e levam-no para um local desconhecido, onde eles tentam seguir as diretrizes que Barney estabeleceu em seu(n)</desc>
+    <credits>
+      <director>Pamela Fryman</director>
+      <actor>Josh Radnor</actor>
+      <actor>Jason Segel</actor>
+      <actor>Cobie Smulders</actor>
+      <actor>Neil Patrick Harris</actor>
+      <actor>Alyson Hannigan</actor>
+    </credits>
+    <date>2013</date>
+    <episode-num system="onscreen">S8 E22</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180412180000 -0300" stop="20180412183000 -0300" channel="Sony HD">
     <title lang="pt">Chefs em Ação</title>
     <desc lang="pt">Os chefs Leonardo Roncon e Rafael Barros deixam o seu dia muito mais saboroso. Com uma abordagem completa e pioneira, a dupla ensina receitas práticas e ousadas que vão desde o prato de entrada a sobremesas(n)</desc>
-    <episode-num system="onscreen">S2 E118</episode-num>
+    <episode-num system="onscreen">S2 E119</episode-num>
     <rating system="BR">
       <value>0+</value>
     </rating>
   </programme>
-  <programme start="20180411183000 -0300" stop="20180411190000 -0300" channel="Sony HD">
-    <title lang="pt">A Roupa Ideal</title>
-    <desc lang="pt">Mais do que ditar regras do que é certo e errado, o programa oferece ferramentas e conhecimento para você encontrar um visual que exalte a melhor versão de você mesmo(n)</desc>
-    <episode-num system="onscreen">S1 E1</episode-num>
+  <programme start="20180412183000 -0300" stop="20180412190000 -0300" channel="Sony HD">
+    <title lang="pt">Chefs em Ação</title>
+    <desc lang="pt">Os chefs Leonardo Roncon e Rafael Barros deixam o seu dia muito mais saboroso. Com uma abordagem completa e pioneira, a dupla ensina receitas práticas e ousadas que vão desde o prato de entrada a sobremesas(n)</desc>
+    <episode-num system="onscreen">E129</episode-num>
     <rating system="BR">
-      <value>7+</value>
+      <value>0+</value>
     </rating>
   </programme>
-  <programme start="20180411190000 -0300" stop="20180411191000 -0300" channel="Sony HD">
+  <programme start="20180412190000 -0300" stop="20180412191000 -0300" channel="Sony HD">
     <title lang="pt">The Voice Lounge</title>
     <desc lang="pt">The Voice Lounge é um programa de entrevistas e debates que reverbera tudo o que acontece no The Voice e no showbiz. Os apresentadores, Foquinha e Thiago Pasqualotto, recebem a cada semana convidados especiais(n)</desc>
     <rating system="BR">
       <value>7+</value>
     </rating>
   </programme>
-  <programme start="20180411191000 -0300" stop="20180411200500 -0300" channel="Sony HD">
-    <title lang="pt">The Voice</title>
-    <desc lang="pt">Os melhores cantores dos Estados Unidos se enfrentarão mais uma vez durante as diferentes fases do concurso, com o objetivo de obter o título de grande vencedor(n)</desc>
-    <date>2018</date>
-    <episode-num system="onscreen">S14 E13</episode-num>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20180411200500 -0300" stop="20180411210000 -0300" channel="Sony HD">
-    <title lang="pt">The Voice</title>
-    <desc lang="pt">Os melhores cantores dos Estados Unidos se enfrentarão mais uma vez durante as diferentes fases do concurso, com o objetivo de obter o título de grande vencedor(n)</desc>
-    <date>2018</date>
-    <episode-num system="onscreen">S14 E13</episode-num>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20180411210000 -0300" stop="20180411225000 -0300" channel="Sony HD">
+  <programme start="20180412191000 -0300" stop="20180412210000 -0300" channel="Sony HD">
     <title lang="pt">The Voice</title>
     <desc lang="pt">Os melhores cantores dos Estados Unidos se enfrentarão mais uma vez durante as diferentes fases do concurso, com o objetivo de obter o título de grande vencedor(n)</desc>
     <date>2018</date>
     <episode-num system="onscreen">S14 E14</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180412210000 -0300" stop="20180412215500 -0300" channel="Sony HD">
+    <title lang="pt">The Voice</title>
+    <desc lang="pt">Os melhores cantores dos Estados Unidos se enfrentarão mais uma vez durante as diferentes fases do concurso, com o objetivo de obter o título de grande vencedor(n)</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">S14 E15</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180412215500 -0300" stop="20180412225000 -0300" channel="Sony HD">
+    <title lang="pt">The Voice</title>
+    <desc lang="pt">Os melhores cantores dos Estados Unidos se enfrentarão mais uma vez durante as diferentes fases do concurso, com o objetivo de obter o título de grande vencedor(n)</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">S14 E15</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180412000000 -0300" stop="20180412020000 -0300" channel="COMEDY CENTRAL">
+    <title lang="pt">Pânico na Escola</title>
+    <desc lang="pt">Riley é escolhida como mascote da equipe de futebol e está apaixonada por um garoto que tem namorada. Tudo piora após a morte de uma companheira, quando um assassino grotesco ameaça a ela e outros alunos(n)</desc>
+    <date>2011</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Terror</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180412020000 -0300" stop="20180412023000 -0300" channel="COMEDY CENTRAL">
+    <title lang="pt">Community - S4E8</title>
+    <desc lang="pt">Britta protesta organizando uma competição em honra a Sophie B. Hawkins, mas ela não percebe que está homenageando a mulher errada(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180412023000 -0300" stop="20180412030000 -0300" channel="COMEDY CENTRAL">
+    <title lang="pt">Community - S4E9</title>
+    <desc lang="pt">A corrida de balões do grupo acaba repentinamente na floresta, onde eles conhecem um amigável homem das montanhas(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180412030000 -0300" stop="20180412033000 -0300" channel="COMEDY CENTRAL">
+    <title lang="pt">Broad City - A Cidade Das Minas - S4E8</title>
+    <desc lang="pt">Abbi, Ilana, Jaime e Lincoln cuidam da casa dos Strand. Ilana e Lincoln definem o relacionamento deles e Abbi tem um encontro com um homem do seu passado(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180412033000 -0300" stop="20180412040000 -0300" channel="COMEDY CENTRAL">
+    <title lang="pt">Broad City - A Cidade Das Minas - S4E9</title>
+    <desc lang="pt">Uma bolsa novinha e chique dá confiança à Abbi durante o desemprego. Ilana e Jaimé lidam com um inevitável pesadelo de Nova York(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180412040000 -0300" stop="20180412043000 -0300" channel="COMEDY CENTRAL">
+    <title lang="pt">Enchufe.TV: A Vida é Uma Piada - S2E6</title>
+    <desc lang="pt">Enchufe TV sabe o que acontece no seu dia-a-dia e sempre dá um jeito de fazer você rir de si mesmo. Os personagens e as situações corriqueiras da sua vida estão aqui(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>Equador</country>
+  </programme>
+  <programme start="20180412043000 -0300" stop="20180412050000 -0300" channel="COMEDY CENTRAL">
+    <title lang="pt">República do Stand Up</title>
+    <desc lang="pt">Uma noite mais do que hilária com os melhores comediantes do Brasil(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20180412050000 -0300" stop="20180412053000 -0300" channel="COMEDY CENTRAL">
+    <title lang="pt">República do Stand Up</title>
+    <desc lang="pt">Uma noite mais do que hilária com os melhores comediantes do Brasil(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20180412053000 -0300" stop="20180412060000 -0300" channel="COMEDY CENTRAL">
+    <title lang="pt">Pipocando: O Dobro de Manteiga - S1E4</title>
+    <desc lang="pt">O mundo será salvo várias vezes durante este episódio. Bock e Rolandinho mostram os heróis mais bizarros que já surgiram no universo da ficção e contam quais são as melhores séries de super-heróis de todos os tempos(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180412060000 -0300" stop="20180412063000 -0300" channel="COMEDY CENTRAL">
+    <title lang="pt">Community - S2E18</title>
+    <desc lang="pt">Annie decide organizar um chá de bebê para Shriley. Shirley, ao mesmo tempo, tenta manter Chang longe dela. Um novo homem misterioso desperta o interesse de Britta(n)</desc>
+    <date>2011</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180412063000 -0300" stop="20180412070000 -0300" channel="COMEDY CENTRAL">
+    <title lang="pt">Community - S2E19</title>
+    <desc lang="pt">Jeff incorpora o amor de Abed ao cinema e a cultura pop e prepara uma festa surpresa para seu aniversário com o tema de "Pulp Fiction". Mas nada sai como o esperado, quando Abed prepara um jantar surpresa para Jeff em outro restaurante(n)</desc>
+    <date>2011</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180412070000 -0300" stop="20180412073000 -0300" channel="COMEDY CENTRAL">
+    <title lang="pt">Comedy Central Stand Up - S2E3</title>
+    <desc lang="pt">Os melhores comediantes do Brasil apresentam seus shows de stand up no Comedy Central(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180412073000 -0300" stop="20180412080000 -0300" channel="COMEDY CENTRAL">
+    <title lang="pt">Comedy Central Stand Up - S2E4</title>
+    <desc lang="pt">Os melhores comediantes do Brasil apresentam seus shows de stand up no Comedy Central(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180412080000 -0300" stop="20180412083000 -0300" channel="COMEDY CENTRAL">
+    <title lang="pt">A Casa Animada - S2E1</title>
+    <desc lang="pt">Todos vão para uma ilha supostamente deserta. Toot não volta para casa e imediatamente se entrevistam candidatos a casa, incluindo Scorpion do Mortal Kombat(n)</desc>
+    <date>2005</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180412083000 -0300" stop="20180412085500 -0300" channel="COMEDY CENTRAL">
+    <title lang="pt">A Casa Animada - S2E2</title>
+    <desc lang="pt">Paródia de reality shows, onde oito distintos arquétipos de desenhos animados são reunidos e forçados a suportar um ao outro(n)</desc>
+    <date>2005</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180412085500 -0300" stop="20180412092500 -0300" channel="COMEDY CENTRAL">
+    <title lang="pt">Eu, A Patroa e as Crianças - S4E30</title>
+    <desc lang="pt">Tudo o que Michael Kyle (Damon Wayans) quer é ter uma vida tradicional com sua família. Mas sua esposa, a comerciante Janet 'Jay' (Tisha Campbell-Martin), o filho que é fã de rap e passa longe de ser o gênio da família(n)</desc>
+    <date>2003</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180412092500 -0300" stop="20180412095000 -0300" channel="COMEDY CENTRAL">
+    <title lang="pt">Teachers - S1E7</title>
+    <desc lang="pt">Todos se comportam bem para a visita do superintendente, mas um dos alunos da Srta. Feldman tem outros planos; A Srta. Snap faz uma audição para "The Bachelor"(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180412095000 -0300" stop="20180412101500 -0300" channel="COMEDY CENTRAL">
+    <title lang="pt">Teachers - S1E8</title>
+    <desc lang="pt">A Srta. Watson lida com o fato de que talvez o seu ex a tenha esquecido; A Srta. Cannon tenta impedir que os professores formem grupinhos(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180412101500 -0300" stop="20180412104000 -0300" channel="COMEDY CENTRAL">
+    <title lang="pt">Um Maluco no Pedaço</title>
+    <desc lang="pt">A mãe do jovem Will o envia para morar com os tios em Bel Air. Will se adapta facilmente e passa a fazer parte dos problemas e das confusões dessa atrapalhada família(n)</desc>
+    <date>1990</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180412104000 -0300" stop="20180412110500 -0300" channel="COMEDY CENTRAL">
+    <title lang="pt">Um Maluco no Pedaço</title>
+    <desc lang="pt">A mãe do jovem Will o envia para morar com os tios em Bel Air. Will se adapta facilmente e passa a fazer parte dos problemas e das confusões dessa atrapalhada família(n)</desc>
+    <date>1990</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180412110500 -0300" stop="20180412113000 -0300" channel="COMEDY CENTRAL">
+    <title lang="pt">Eu, A Patroa e as Crianças - S3E17</title>
+    <desc lang="pt">Michael está impressionado com a namorada de seu filho: Vanessa é bonita, esperta, simpática e educada, e não tem nada em comum com Junior(n)</desc>
+    <date>2002</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180412113000 -0300" stop="20180412115500 -0300" channel="COMEDY CENTRAL">
+    <title lang="pt">Eu, A Patroa e as Crianças - S3E18</title>
+    <desc lang="pt">Michael expulsa Junior de casa depois dele e Jay o flagrarem na cama de casal com sua namorada. Jay discorda da punição(n)</desc>
+    <date>2002</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180412115500 -0300" stop="20180412125000 -0300" channel="COMEDY CENTRAL">
+    <title lang="pt">A Culpa é do Cabral - S3E3</title>
+    <desc lang="pt">Cinco grandes nomes do stand up brasileiro, de diferentes regiões do país, se reúnem para compartilhar assuntos do cotidiano(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180412125000 -0300" stop="20180412131500 -0300" channel="COMEDY CENTRAL">
+    <title lang="pt">South Park - S5E12</title>
+    <desc lang="pt">Token se sente só por ser rico e consegue atrair celebridades para South Park. Começa uma rivalidade entre classes sociais e Token vai morar com os leões(n)</desc>
+    <date>2001</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180412131500 -0300" stop="20180412134500 -0300" channel="COMEDY CENTRAL">
+    <title lang="pt">South Park - S5E13</title>
+    <desc lang="pt">Cartman pensa em vender fetos abortados para pesquisadores de células-tronco, mas o governo proíbe as pesquisas. Kenny descobre uma doença terminal(n)</desc>
+    <date>2001</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180412134500 -0300" stop="20180412141000 -0300" channel="COMEDY CENTRAL">
+    <title lang="pt">Eu, A Patroa e as Crianças - S5E1</title>
+    <desc lang="pt">Tudo o que Michael Kyle (Damon Wayans) quer é ter uma vida tradicional com sua família. Mas sua esposa, a comerciante Janet 'Jay' (Tisha Campbell-Martin), o filho que é fã de rap e passa longe de ser o gênio da família(n)</desc>
+    <date>2004</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180412141000 -0300" stop="20180412144000 -0300" channel="COMEDY CENTRAL">
+    <title lang="pt">Borges - S1E5</title>
+    <desc lang="pt">Um ator encrenqueiro e politicamente correto manda e desmanda nas gravações. Enquanto isso, um vendedor de rua humilde, subloca uma salinha pra fazer brigadeiros, transformando a Borges num antro de trabalho infantil e outros crimes(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180412144000 -0300" stop="20180412151000 -0300" channel="COMEDY CENTRAL">
+    <title lang="pt">Borges - S1E6</title>
+    <desc lang="pt">Enquanto Sonia usa o novo vídeo da Borges para mandar indiretas pro namorado, Pablo tenta descobrir que se um cara encarando ele em uma lanchonete é gay, assaltante ou fã(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180412151000 -0300" stop="20180412154000 -0300" channel="COMEDY CENTRAL">
+    <title lang="pt">Um Maluco no Pedaço</title>
+    <desc lang="pt">A mãe do jovem Will o envia para morar com os tios em Bel Air. Will se adapta facilmente e passa a fazer parte dos problemas e das confusões dessa atrapalhada família(n)</desc>
+    <date>1990</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180412154000 -0300" stop="20180412160500 -0300" channel="COMEDY CENTRAL">
+    <title lang="pt">Um Maluco no Pedaço</title>
+    <desc lang="pt">A mãe do jovem Will o envia para morar com os tios em Bel Air. Will se adapta facilmente e passa a fazer parte dos problemas e das confusões dessa atrapalhada família(n)</desc>
+    <date>1990</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180412160500 -0300" stop="20180412163500 -0300" channel="COMEDY CENTRAL">
+    <title lang="pt">Eu, A Patroa e as Crianças - S3E17</title>
+    <desc lang="pt">Michael está impressionado com a namorada de seu filho: Vanessa é bonita, esperta, simpática e educada, e não tem nada em comum com Junior(n)</desc>
+    <date>2002</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180412163500 -0300" stop="20180412170000 -0300" channel="COMEDY CENTRAL">
+    <title lang="pt">Eu, A Patroa e as Crianças - S3E18</title>
+    <desc lang="pt">Michael expulsa Junior de casa depois dele e Jay o flagrarem na cama de casal com sua namorada. Jay discorda da punição(n)</desc>
+    <date>2002</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180412170000 -0300" stop="20180412180000 -0300" channel="COMEDY CENTRAL">
+    <title lang="pt">A Culpa é do Cabral - S4E10</title>
+    <desc lang="pt">Os humoristas dão uma aula de gramática no quadro "AJUDA EU" e refletem sobre problemas que só gente rica têm. No palco eles recebem Alê Oliveira pra falar de futebol e imaginar tudo o que pode ser pior que o 7x1(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180412180000 -0300" stop="20180412190500 -0300" channel="COMEDY CENTRAL">
+    <title lang="pt">The Noite com Danilo Gentili</title>
+    <desc lang="pt">O The Noite Com Danilo Gentili traz muitos entrevistados interessantes e alto índice de piadas por minuto, abordando os fatos mais (e menos) relevantes do dia(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Comédia</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180412190500 -0300" stop="20180412193500 -0300" channel="COMEDY CENTRAL">
+    <title lang="pt">Entre Risos - S1E11</title>
+    <desc lang="pt">O espectador vai conhecer a rotina de "criação" de piadas dos melhores comediantes do país(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20180412193500 -0300" stop="20180412200500 -0300" channel="COMEDY CENTRAL">
+    <title lang="pt">Entre Risos - S1E12</title>
+    <desc lang="pt">O espectador vai conhecer a rotina de "criação" de piadas dos melhores comediantes do país(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20180412200500 -0300" stop="20180412203000 -0300" channel="COMEDY CENTRAL">
+    <title lang="pt">Eu, A Patroa e as Crianças - S4E30</title>
+    <desc lang="pt">Tudo o que Michael Kyle (Damon Wayans) quer é ter uma vida tradicional com sua família. Mas sua esposa, a comerciante Janet 'Jay' (Tisha Campbell-Martin), o filho que é fã de rap e passa longe de ser o gênio da família(n)</desc>
+    <date>2003</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180412203000 -0300" stop="20180412210000 -0300" channel="COMEDY CENTRAL">
+    <title lang="pt">Eu, A Patroa e as Crianças - S5E1</title>
+    <desc lang="pt">Tudo o que Michael Kyle (Damon Wayans) quer é ter uma vida tradicional com sua família. Mas sua esposa, a comerciante Janet 'Jay' (Tisha Campbell-Martin), o filho que é fã de rap e passa longe de ser o gênio da família(n)</desc>
+    <date>2004</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180412210000 -0300" stop="20180412212500 -0300" channel="COMEDY CENTRAL">
+    <title lang="pt">Os Goldbergs - S5E4</title>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180412212500 -0300" stop="20180412215000 -0300" channel="COMEDY CENTRAL">
+    <title lang="pt">Os Goldbergs - S5E5</title>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180412215000 -0300" stop="20180412225500 -0300" channel="COMEDY CENTRAL">
+    <title lang="pt">The Noite com Danilo Gentili</title>
+    <desc lang="pt">O The Noite Com Danilo Gentili traz muitos entrevistados interessantes e alto índice de piadas por minuto, abordando os fatos mais (e menos) relevantes do dia(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Comédia</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180412225500 -0300" stop="20180412230000 -0300" channel="COMEDY CENTRAL">
+    <title lang="pt">Porta No Comedy - S1E27</title>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180412230000 -0300" stop="20180412233000 -0300" channel="COMEDY CENTRAL">
+    <title lang="pt">Comedy Central Stand Up - S3E4</title>
+    <desc lang="pt">Os melhores comediantes do Brasil apresentam seus shows de stand up no Comedy Central(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180412233000 -0300" stop="20180413000000 -0300" channel="COMEDY CENTRAL">
+    <title lang="pt">Comedy Central Stand Up - S3E18</title>
+    <desc lang="pt">Os melhores comediantes do Brasil apresentam seus shows de stand up no Comedy Central(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180412004500 -0300" stop="20180412030000 -0300" channel="SPORTV 2 HD">
+    <title lang="pt">UFC 222 - Cyborg x Kunitskaya</title>
+    <desc lang="pt">A campeã peso pena Cris Cyborg defende seu cinturão contra Yana Kunitskaya. Frankie Edgar pega Brian Ortega. A brasileira Ketlen Vieira duela com a veterana Cat Zingano. Mackenzie Dern estreia no UFC contra Ashley Yoder(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180412030000 -0300" stop="20180412040000 -0300" channel="SPORTV 2 HD">
+    <title lang="pt">VT - Internacional x Vitória</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180412040000 -0300" stop="20180412050000 -0300" channel="SPORTV 2 HD">
+    <title lang="pt">VT - Brasil RS x Grêmio</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180412050000 -0300" stop="20180412060000 -0300" channel="SPORTV 2 HD">
+    <title lang="pt">VT - St. Etienne x PSG</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180412060000 -0300" stop="20180412070000 -0300" channel="SPORTV 2 HD">
+    <title lang="pt">VT - Fluminense x Nacional Potosí (BOL)</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180412070000 -0300" stop="20180412083000 -0300" channel="SPORTV 2 HD">
+    <title lang="pt">Troca de Passes</title>
+    <desc lang="pt">Tiago Maranhão e Roger Flores comandam o novo Troca, agora de terça a domingo e com novo estúdio. Sempre após a rodada, acompanhe a melhor análise pós-jogo da TV brasileira(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180412083000 -0300" stop="20180412093000 -0300" channel="SPORTV 2 HD">
+    <title lang="pt">VT - Fluminense x Nacional Potosí (BOL)</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180412093000 -0300" stop="20180412110000 -0300" channel="SPORTV 2 HD">
+    <title lang="pt">VT - Palmeiras x Boca Juniors (ARG)</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180412110000 -0300" stop="20180412120000 -0300" channel="SPORTV 2 HD">
+    <title lang="pt">VT - Internacional x Vitória</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180412120000 -0300" stop="20180412130000 -0300" channel="SPORTV 2 HD">
+    <title lang="pt">VT - San Lorenzo (ARG) x Atlético mg</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180412130000 -0300" stop="20180412131000 -0300" channel="SPORTV 2 HD">
+    <title lang="pt">SporTV News - Vivo</title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180412131000 -0300" stop="20180412141000 -0300" channel="SPORTV 2 HD">
+    <title lang="pt">VT - Palmeiras x Boca Juniors (ARG)</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180412141000 -0300" stop="20180412142000 -0300" channel="SPORTV 2 HD">
+    <title lang="pt">SporTV News - Vivo</title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180412142000 -0300" stop="20180412152000 -0300" channel="SPORTV 2 HD">
+    <title lang="pt">VT - Fluminense x Nacional Potosí (BOL)</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180412152000 -0300" stop="20180412153000 -0300" channel="SPORTV 2 HD">
+    <title lang="pt">SporTV News - Vivo</title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180412153000 -0300" stop="20180412163000 -0300" channel="SPORTV 2 HD">
+    <title lang="pt">VT - Internacional x Vitória</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180412163000 -0300" stop="20180412164000 -0300" channel="SPORTV 2 HD">
+    <title lang="pt">SporTV News - Vivo</title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180412164000 -0300" stop="20180412174000 -0300" channel="SPORTV 2 HD">
+    <title lang="pt">VT - San Lorenzo (ARG) x Atlético mg</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180412174000 -0300" stop="20180412175000 -0300" channel="SPORTV 2 HD">
+    <title lang="pt">SporTV News - Vivo</title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180412175000 -0300" stop="20180412183500 -0300" channel="SPORTV 2 HD">
+    <title lang="pt">VT - Palmeiras x Boca Juniors (ARG)</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180412183500 -0300" stop="20180412184500 -0300" channel="SPORTV 2 HD">
+    <title lang="pt">SporTV News - Vivo</title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180412184500 -0300" stop="20180412190000 -0300" channel="SPORTV 2 HD">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <desc lang="pt">Só aqui no seu canal campeão, você confere tudo que cerca o próximo evento que será exibido pelo SporTV, com os comentários e as reportagens dos melhores comentaristas esportivos da TV brasileira(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180412190000 -0300" stop="20180412210000 -0300" channel="SPORTV 2 HD">
+    <title lang="pt">NBB - Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180412210000 -0300" stop="20180412211000 -0300" channel="SPORTV 2 HD">
+    <title lang="pt">SporTV News - Vivo</title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180412211000 -0300" stop="20180412222000 -0300" channel="SPORTV 2 HD">
+    <title lang="pt">UFC 223 - Holloway x Nurmagumedov</title>
+    <desc lang="pt">Neste UFC, Max Holloway encara Khabib Nurmagomedov. Rose Namajunas e Joanna Jedrzejczyk fazem uma revanche valendo o cinturão das peso palha. O peso-pena brasileiro Renato Moicano enfrenta Calvin Kattar, e muito mais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180412222000 -0300" stop="20180412223000 -0300" channel="SPORTV 2 HD">
+    <title lang="pt">SporTV News - Vivo</title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180412223000 -0300" stop="20180412230000 -0300" channel="SPORTV 2 HD">
+    <title lang="pt">Pré - Vivo</title>
+    <desc lang="pt">Só aqui no seu canal campeão, você confere tudo que cerca o próximo evento que será exibido pelo SporTV, com os comentários e as reportagens dos melhores comentaristas esportivos da TV brasileira(n)</desc>
     <rating system="BR">
       <value>0+</value>
     </rating>
